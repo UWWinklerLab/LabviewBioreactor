@@ -55,10 +55,10 @@
 			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 	</Item>
-	<Item Name="R2 DO Manual Control.ctl" Type="VI" URL="../R2 DO Manual Control.ctl"/>
+	<Item Name="R2 DO Manual Control.ctl" Type="VI" URL="../../../../R2 DO Manual Control.ctl"/>
 	<Item Name="R2 pH Manual Control.ctl" Type="VI" URL="../R2 pH Manual Control.ctl"/>
 	<Item Name="R2 Pump Manual Control.ctl" Type="VI" URL="../R2 Pump Manual Control.ctl"/>
-	<Item Name="R2 Reactor Status v1.ctl" Type="VI" URL="../R2 Reactor Status v1.ctl"/>
+	<Item Name="R2 Reactor Status v1.ctl" Type="VI" URL="../../../../R2 Reactor Status v1.ctl"/>
 	<Item Name="R2 SBR Mode Control.ctl" Type="VI" URL="../R2 SBR Mode Control.ctl"/>
 	<Item Name="R2 SBR Timing Control" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -86,7 +86,7 @@
 		<Property Name="numTypedefs" Type="UInt">1</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typedefName1" Type="Str">R2Variables.lvlib:R2 DO Manual Control.ctl</Property>
-		<Property Name="typedefPath1" Type="PathRel">../R2 DO Manual Control.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../../../R2 DO Manual Control.ctl</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#*B1!!!"9!A!!!!!!$!!Z!)1F";8)A6G&amp;M&gt;G5!$E!B#%YS)&amp;:B&lt;(:F!!"8!0%!!!!!!!!!!B&amp;3-F:B=GFB9GRF=SZM&gt;GRJ9BB3-C"%4S".97ZV97QA1W^O&gt;(*P&lt;#ZD&gt;'Q!*%"1!!)!!!!"&amp;&amp;*F97.U&lt;X)A-C"%4S"$&lt;WZU=G^M!!!"!!)!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="R2 pH Control" Type="Variable">
@@ -148,7 +148,7 @@
 		<Property Name="numTypedefs" Type="UInt">1</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typedefName1" Type="Str">R2Variables.lvlib:R2 Reactor Status v1.ctl</Property>
-		<Property Name="typedefPath1" Type="PathRel">../R2 Reactor Status v1.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../../../R2 Reactor Status v1.ctl</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(&amp;Q1%!!"9!A!!!!!!2!""!)1J8982F=C"1&gt;7VQ!!!11#%+476E;7%A5(6N=!!!%E!B$56G:GRV:7ZU)&amp;"V&lt;8!!$E!B#5*B=W5A5(6N=!!/1#%)2W&amp;T)&amp;"V&lt;8!!!!Z!)1F"9WFE)&amp;"V&lt;8!!&amp;E!B%5&amp;J=C"3:7RF98.F)&amp;:B&lt;(:F!!Z!)1B/-C"797RW:1!!#5!+!!*Q3!!!$U!+!!F%4S!I&lt;7=P4#E!%5!+!!JQ3#""&lt;8!A+%%J!!!21!I!#E20)%&amp;N=#!I13E!!".!#A!-5G6M:7&amp;T:3"'&lt;'^X!!!61!I!$E.P&lt;8"S:8.T:71A17FS!!!61!E!$F*F97.U&lt;X)A5X2B&gt;(6T!!!/1#%*17FS)&amp;:B&lt;(:F!']!]1!!!!!!!!!#%6)S6G&amp;S;7&amp;C&lt;'6T,GRW&lt;'FC'&amp;)S)&amp;*F97.U&lt;X)A5X2B&gt;(6T)(9R,G.U&lt;!!]1&amp;!!%!!!!!%!!A!$!!1!"1!'!!=!#!!*!!I!#Q!-!!U!$A!0%&amp;*F97.U&lt;X)A-C"4&gt;'&amp;U&gt;8-!!!%!%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="R2SBRTotalTime" Type="Variable">
@@ -179,5 +179,5 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="R2 DO Manual Control_v1.ctl" Type="VI" URL="../R2 DO Manual Control_v1.ctl"/>
+	<Item Name="R2 DO Manual Control_v1.ctl" Type="VI" URL="../../../../R1R2/R2/R2 DO Manual Control_v1.ctl"/>
 </Library>
