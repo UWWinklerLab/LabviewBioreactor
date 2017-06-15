@@ -6,12 +6,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="R1DOManual" Type="Variable">
+	<Item Name="R1DOManual2" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/R1R2.lvproj/cRIO1-WinklerLab/R1/R1Variables.lvlib/R1Controls.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"I:!!!!"9!A!!!!!!$!!V!#A!(17FS)%V'1Q!.1!I!"EYS)%V'1Q!!+E"1!!)!!!!"(E208UVB&lt;H6B&lt;#!I6G&amp;S;7&amp;C&lt;'5A17.U&gt;7&amp;U&lt;X*T+1!!!1!#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
@@ -35,7 +34,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="R1NH4Manual" Type="Variable">
+	<Item Name="R1NH4Manual2" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
@@ -43,13 +42,15 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"03Q!!!"9!A!!!!!!#!"^!#A!:4EAU)&amp;"V&lt;8!A2GRP&gt;X*B&gt;'5M)'VM,WVJ&lt;A!51&amp;!!!1!!#EZ).&amp;^.97ZV97Q!!!%!!1!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="R1pHManual" Type="Variable">
+	<Item Name="R1pHManual2" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="numTypedefs" Type="UInt">1</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"34A!!!"9!A!!!!!!$!!Z!)1F"9WFE)&amp;"V&lt;8!!$E!B#5*B=W5A5(6N=!!A1&amp;!!!A!!!!%5=%B@47&amp;O&gt;7&amp;M)#B4&gt;'&amp;O:'&amp;S:#E!!!%!!A!!!!!!!!!!!!!</Property>
+		<Property Name="typedefName1" Type="Str">pH_Manual Standard.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../../Controls/pH_Manual Standard.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"V=1!!!"9!A!!!!!!$!!Z!)1F"9WFE)&amp;"V&lt;8!!$E!B#5*B=W5A5(6N=!"$!0%!!!!!!!!!!2:Q3&amp;^.97ZV97QA5X2B&lt;G2B=G1O9X2M!#2!5!!#!!!!!22Q3&amp;^.97ZV97QA+&amp;.U97ZE98*E+1!!!1!#!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="R1pHSetParams" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -69,19 +70,13 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="R1SBRManual" Type="Variable">
+	<Item Name="R1SBRManual2" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
-		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
-		<Property Name="Network:SingleWriter" Type="Str">False</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/R1R2.lvproj/cRIO1-WinklerLab/R1/R1Variables.lvlib/R1Controls.lvlib/</Property>
-		<Property Name="Real-Time Features:ApplyNetworkConfig" Type="Str">False</Property>
-		<Property Name="Real-Time Features:BufferLength" Type="Str">1</Property>
-		<Property Name="Real-Time Features:UseBuffering" Type="Str">False</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"]?!!!!"9!A!!!!!!&amp;!""!)1J.:72J93"1&gt;7VQ!!!11#%+6W&amp;U:8)A5(6N=!!!$E!B#%&gt;B=S"1&gt;7VQ!!!31#%.27:G&lt;(6F&lt;H1A5(6N=!!E1&amp;!!"!!!!!%!!A!$&amp;6.#5F^.97ZV97QA+&amp;.U97ZE98*E+1!"!!1!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#2D1!!!"9!A!!!!!!'!""!)1J.:72J93"1&gt;7VQ!!!11#%+6W&amp;U:8)A5(6N=!!!%E!B$56G:GRV:7ZU)&amp;"V&lt;8!!%E!B$6*F&lt;'6B=W5A6G&amp;M&gt;G5!$E!B#%&gt;B=S"1&gt;7VQ!!!G1&amp;!!"1!!!!%!!A!$!!165U*38UVB&lt;H6B&lt;#!I5X2B&lt;G2B=G1J!!%!"1!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="R1SBRSetParams" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -92,7 +87,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typedefName1" Type="Str">R1SBR_SetParams.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../../../Controls/R1SBR_SetParams.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$JZ1!!!"9!A!!!!!!*!!Z!-0````]&amp;5'BB=W5!$U!+!!F5;7VF,#"N;7Y!%%!B#EVF:'FB)&amp;"V&lt;8!!!""!)1J8982F=C"1&gt;7VQ!!!/1#%)2W&amp;T)&amp;"V&lt;8!!!"*!)1V&amp;:G:M&gt;76O&gt;#"1&gt;7VQ!"J!5!!%!!)!!Q!%!!5+5U*38UVB&lt;H6B&lt;!!!(E"1!!-!!!!"!!925'BB=W5A6'FN;7ZH)&amp;"B;8)!0!$R!!!!!!!!!!%45D&amp;41F*@5W6U5'&amp;S97VT,G.U&lt;!!A1%!!!@````]!"Q^3-6.#5F^4:82198*B&lt;8-!!1!)!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$^_1!!!"9!A!!!!!!+!!Z!-0````]&amp;5'BB=W5!$U!+!!F5;7VF,#"N;7Y!%%!B#EVF:'FB)&amp;"V&lt;8!!!""!)1J8982F=C"1&gt;7VQ!!!31#%.27:G&lt;(6F&lt;H1A5(6N=!!31#%.5G6M:7&amp;T:3"797RW:1!/1#%)2W&amp;T)&amp;"V&lt;8!!!"R!5!!&amp;!!)!!Q!%!!5!"AJ41F*@47&amp;O&gt;7&amp;M!!!?1&amp;!!!Q!!!!%!"R&amp;1;'&amp;T:3"5;7VJ&lt;G=A5'&amp;J=A!]!0%!!!!!!!!!!2.3-6.#5F^4:82198*B&lt;8-O9X2M!#"!1!!"`````Q!)$V)R5U*38V.F&gt;&amp;"B=G&amp;N=Q!"!!E!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="R1SBRSwitch" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
