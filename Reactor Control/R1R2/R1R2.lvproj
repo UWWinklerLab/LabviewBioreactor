@@ -7,6 +7,7 @@
 	<Property Name="varPersistentID:{04CCB105-B7B9-4F5F-B1EC-58319AD1423C}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Timestamp</Property>
 	<Property Name="varPersistentID:{0522DEEE-C7DC-4E61-BC9D-3F786052F4EC}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod5/M5AI7</Property>
 	<Property Name="varPersistentID:{05E00641-5D15-4ED8-AECA-FF88994FED08}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI25</Property>
+	<Property Name="varPersistentID:{0761263A-5C2C-4C87-BA71-3C9FC614E458}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_pH_Switch</Property>
 	<Property Name="varPersistentID:{0A5E1DAB-E94D-4522-8A77-5965450ED58E}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod7/DO2</Property>
 	<Property Name="varPersistentID:{0C73F5D2-06B8-4A76-89E8-EBC0064A3A95}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1NH4Intercept</Property>
 	<Property Name="varPersistentID:{0D9926A9-09E0-4670-9C0E-81E6429CBA34}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1NH4NaCF</Property>
@@ -23,21 +24,20 @@
 	<Property Name="varPersistentID:{1DBDF1A9-1A62-4668-87F1-FFAFA6E17FC4}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/R2 SBR Timing Control</Property>
 	<Property Name="varPersistentID:{1FB38C57-708E-446F-8B60-7E36822ACA28}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod7/DO6</Property>
 	<Property Name="varPersistentID:{20C3D76D-D07C-41F0-B78B-6D9775A0E552}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod2/M2DO4</Property>
-	<Property Name="varPersistentID:{20F0DEBC-D780-4543-8498-315FC341205B}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1DOSwitch</Property>
 	<Property Name="varPersistentID:{22BC2611-264C-4DB8-A51F-F8E27579094D}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1AirIntercept</Property>
 	<Property Name="varPersistentID:{246B1603-9368-4767-AE1E-0455552AD5E3}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod1/M1AI2</Property>
 	<Property Name="varPersistentID:{25A6DED4-955D-43BA-8D1E-B3D6AB63D663}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod4/M4DO0</Property>
 	<Property Name="varPersistentID:{26551504-82AF-482C-ADCF-D788BBDFBA2D}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod2/M2DO3</Property>
 	<Property Name="varPersistentID:{26558C81-26D3-4795-B580-63D846E22D67}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod5/M5AI2</Property>
+	<Property Name="varPersistentID:{27CEEEFC-D45A-4E8E-B99C-CD23994C25E4}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_SBR_Switch</Property>
 	<Property Name="varPersistentID:{28636BDA-F7E9-4A15-B9B8-86E68E225CF3}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI24</Property>
-	<Property Name="varPersistentID:{28718A6F-4543-4EBB-A091-933BAA0E6E89}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1NH4Manual</Property>
-	<Property Name="varPersistentID:{28960EF0-259E-4FF3-BAE1-F82BE4C5A32A}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1SBRSetParams</Property>
+	<Property Name="varPersistentID:{299257D8-595D-4154-A769-46FE6D0E12A4}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_SBR_Manual</Property>
 	<Property Name="varPersistentID:{2A52A4B9-BBBA-4CE2-AD84-3E35D0400EF8}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod3/R6 Air MFC</Property>
 	<Property Name="varPersistentID:{2B498C1C-16BE-4E44-9A6B-A1DB13EBAC73}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI18</Property>
-	<Property Name="varPersistentID:{2D45D503-A71E-4F17-AA97-84DA2A4C2838}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1pHSwitch</Property>
 	<Property Name="varPersistentID:{2F612CD5-A6EA-461C-AE3F-D8AB94C0014F}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod4/M4DO4</Property>
 	<Property Name="varPersistentID:{2F782067-839B-454A-9C8F-8CDD032D56C1}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Signals.lvlib/R1pH</Property>
 	<Property Name="varPersistentID:{2FD34C3B-98AA-49E4-81B1-F9B4DA03FC6E}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1NH4EqDetectSet</Property>
+	<Property Name="varPersistentID:{30DACFF1-7CCD-41DD-BA85-5F3AB4C94140}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_pH_SetParams</Property>
 	<Property Name="varPersistentID:{317AB0CC-6430-4AC9-B337-0B87AE7651AF}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1DOIntercept</Property>
 	<Property Name="varPersistentID:{3718983A-BA41-45F0-A557-33875FB416CC}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI15</Property>
 	<Property Name="varPersistentID:{393B5DC9-DA5F-4C7A-979F-5D5F01FD2B6D}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod4/M4DO6</Property>
@@ -48,6 +48,7 @@
 	<Property Name="varPersistentID:{41013D53-E87B-4867-84A0-36AEB1DD66D4}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Signals.lvlib/R1N2</Property>
 	<Property Name="varPersistentID:{428B7AB6-10D0-4AE2-A50F-75CB06352CBC}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1AirSlope</Property>
 	<Property Name="varPersistentID:{42C2EC7D-5F5B-4982-B7E8-5046E3A36C7C}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod1/M1AI4</Property>
+	<Property Name="varPersistentID:{4657EE99-263B-40EB-89F9-8D139386871A}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_NH4_Manual</Property>
 	<Property Name="varPersistentID:{49F36EF6-89D8-4A76-A0F2-2098CA3D5671}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod1/M1AI3</Property>
 	<Property Name="varPersistentID:{4E2D7CF6-7344-40BD-B463-A3B3E96E1844}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1NaEqDetectOn</Property>
 	<Property Name="varPersistentID:{51C50831-3276-4FCC-B430-84A650A2990D}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Totalizers.lvlib/R1AcidPumpTotalizer</Property>
@@ -58,11 +59,11 @@
 	<Property Name="varPersistentID:{58F64E17-D401-4A78-BEE2-EA34F7C4B0BC}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI8</Property>
 	<Property Name="varPersistentID:{5A32B59B-6170-4D95-8452-1DA06380EDE1}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1ORPSlope</Property>
 	<Property Name="varPersistentID:{5AA62F21-0800-4605-A1AF-95E3EB0FE139}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1DOSlope</Property>
+	<Property Name="varPersistentID:{5BAAD313-8922-4326-A9F4-3DB0910B5722}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_DO_Manual</Property>
 	<Property Name="varPersistentID:{5CD90E6B-5469-4374-9576-F6C05A2A2FCD}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI13</Property>
 	<Property Name="varPersistentID:{60A8CF61-D3E0-4D6A-8065-EFED3F225624}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod4/M4DO1</Property>
 	<Property Name="varPersistentID:{6212D6CE-B0CF-486F-A8E8-21EF346512A1}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI9</Property>
 	<Property Name="varPersistentID:{62C65DD2-8C14-4FBB-97EF-071B6CE1977A}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI4</Property>
-	<Property Name="varPersistentID:{6395C945-E7E0-495C-8D3A-9422BE2EF9D2}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1SBRManual</Property>
 	<Property Name="varPersistentID:{65D67407-E2AF-4882-90D9-0AAAFAEB6AEC}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1NH4ISERaw</Property>
 	<Property Name="varPersistentID:{6B1E3669-385D-48E0-8790-94FBC7962766}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/Calibration Variables/R2 DO Calibration</Property>
 	<Property Name="varPersistentID:{6FF4DCD0-B515-4110-98DE-37ACFB9BE4F3}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/R2Mode</Property>
@@ -76,25 +77,24 @@
 	<Property Name="varPersistentID:{7AF1E59F-3730-4D40-8C8F-44210CA25376}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/Calibration Variables/R2DOCalM</Property>
 	<Property Name="varPersistentID:{7CA21AB2-F831-46E6-BE84-60E1803AB3F7}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod2/M2DO0</Property>
 	<Property Name="varPersistentID:{7D9FE2C5-F14C-43EC-A085-6E14AADF46AD}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod7/DO5</Property>
-	<Property Name="varPersistentID:{7F1BE835-D056-4FA6-8070-F03B92F53C8E}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1SBRSwitch</Property>
 	<Property Name="varPersistentID:{7FEAA529-0241-4500-BC51-7C95DA951934}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Signals.lvlib/R1DO</Property>
 	<Property Name="varPersistentID:{825DBA36-0B89-4B7B-B649-07F6B20C3E7B}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Totalizers.lvlib/R1N2ValveTotalizer</Property>
 	<Property Name="varPersistentID:{8583A7B5-2696-452C-963D-BF2857491A57}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Status</Property>
 	<Property Name="varPersistentID:{866D7A79-CE57-4BDF-A667-B73C3A612A51}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1NH4Slope</Property>
 	<Property Name="varPersistentID:{8BE83BD3-0414-4E76-BE24-C1717B1AE6CF}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI27</Property>
 	<Property Name="varPersistentID:{8E7A59E9-DD7B-45F4-8FBB-8BB2F9517A3E}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod8/M8AO0</Property>
-	<Property Name="varPersistentID:{91629405-3477-401E-B63B-B87E04095F06}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1DOSetParams</Property>
 	<Property Name="varPersistentID:{91C8AF91-CC76-43C6-BE45-64B419B39BC0}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI16</Property>
 	<Property Name="varPersistentID:{945CB254-72C2-4264-8EEC-4D6C0B400880}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Signals.lvlib/R1ORP</Property>
-	<Property Name="varPersistentID:{9534974F-1FFE-4F6A-AEE1-CB26BF7A2400}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1DOManual</Property>
 	<Property Name="varPersistentID:{9582A3F7-6D21-490B-AE61-00C793683509}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod2/M2DO6</Property>
 	<Property Name="varPersistentID:{966FEA51-A07E-48AA-900D-6D0962BA1EB0}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod4/M4DO2</Property>
 	<Property Name="varPersistentID:{97D5A3CB-2345-4E99-91DC-82B7AAD824B2}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI26</Property>
 	<Property Name="varPersistentID:{98579F7C-E474-4931-980C-14923DD47F48}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1NH4EqDetectOn</Property>
 	<Property Name="varPersistentID:{99F27ED5-DB35-4CF6-AF19-D87C325A3C33}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI6</Property>
+	<Property Name="varPersistentID:{9AC61464-F0FF-4818-AEEB-91BAB8C1A10D}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_pH_Manual</Property>
 	<Property Name="varPersistentID:{9B586679-7972-44C9-A374-6490B07AA57C}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI1</Property>
 	<Property Name="varPersistentID:{9D50CD6F-E02A-45C8-A302-5B28CF14C408}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI19</Property>
 	<Property Name="varPersistentID:{9DBD042A-3720-43B0-A669-70E628CE8F45}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI10</Property>
+	<Property Name="varPersistentID:{9F013C0A-D0A4-4E4E-A777-460B5FB029D9}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_SBR_SetParams</Property>
 	<Property Name="varPersistentID:{A005E554-86AB-4D94-8E72-B7FD4E5A422E}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Totalizers.lvlib/R1AirValveTotalizer</Property>
 	<Property Name="varPersistentID:{A0A4F7AF-A871-4363-BCBC-6DEBCD2D94EA}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/Calibration Variables/R2DOCalB</Property>
 	<Property Name="varPersistentID:{A213A69A-5F69-4DBD-8930-213F65EC2DEA}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1NH4NaOn</Property>
@@ -118,6 +118,7 @@
 	<Property Name="varPersistentID:{C189C362-0D44-41F6-B719-877775D3DBFD}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod5/M5AI1</Property>
 	<Property Name="varPersistentID:{C301DF1E-744D-41C4-8FC2-66F9E3D7796A}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/Calibration Variables/R2 pH Calibration</Property>
 	<Property Name="varPersistentID:{C3D012FC-BBFD-4117-9E8F-D12C3238246A}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Totalizers.lvlib/R1PhaseTimeElapsed</Property>
+	<Property Name="varPersistentID:{C45E74B0-C23C-4B16-8DEC-E9928BCF1FF2}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_DO_Switch</Property>
 	<Property Name="varPersistentID:{C5A8A395-138E-49CE-BB55-1448BE28A787}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod5/M5AI6</Property>
 	<Property Name="varPersistentID:{C6CADCD5-8E27-477C-820F-C7E8925D3A95}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod1/M1AI0</Property>
 	<Property Name="varPersistentID:{C7089D13-7EB3-40F7-80BD-30774F4352F1}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/Calibration Variables/R2pHCalM</Property>
@@ -130,8 +131,6 @@
 	<Property Name="varPersistentID:{D21AFD5B-3028-47DE-A98A-6E657D5FB8EE}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI22</Property>
 	<Property Name="varPersistentID:{D3FB5749-D8C2-4CD3-8339-F8CE0DC37235}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod3/R6 N2 MFC</Property>
 	<Property Name="varPersistentID:{D446716B-7739-409C-B324-6F3EDE29ED7C}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1NaIntercept</Property>
-	<Property Name="varPersistentID:{D656FB74-BE42-4B14-905D-0A9D1DAC5195}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1pHSetParams</Property>
-	<Property Name="varPersistentID:{D729762E-BDE4-455B-BD24-3C578C576995}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1pHManual</Property>
 	<Property Name="varPersistentID:{DC981ACF-F551-4582-8378-020484E52321}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1NaEqDetectTime</Property>
 	<Property Name="varPersistentID:{DD6F4F68-0730-4302-970A-7461C33F535E}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1NaISERaw</Property>
 	<Property Name="varPersistentID:{E4C60123-67F7-4E1C-BB33-40A3BD1E855E}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI30</Property>
@@ -151,6 +150,7 @@
 	<Property Name="varPersistentID:{F72CD252-6867-4232-A252-A9F07E1E7C2A}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1pHSlope</Property>
 	<Property Name="varPersistentID:{F76B6D7F-0415-4532-816D-C0B382F473BA}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod2/M2DO5</Property>
 	<Property Name="varPersistentID:{FAEC7C2B-F261-425C-95F0-A9D5DEF0449B}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod2/R6 Air Release Valve</Property>
+	<Property Name="varPersistentID:{FB694F1D-98D0-4AAA-A7FE-C59DEC76A21A}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_DO_SetParams</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -174,6 +174,7 @@
 		<Property Name="host.ResponsivenessCheckPingTimeout" Type="UInt">1000</Property>
 		<Property Name="host.TargetCPUID" Type="UInt">8</Property>
 		<Property Name="host.TargetOSID" Type="UInt">8</Property>
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="target.cleanupVisa" Type="Bool">false</Property>
 		<Property Name="target.Deployment_DownloadInstallerPath" Type="Path"></Property>
 		<Property Name="target.Deployment_SilentInstallation" Type="Bool">false</Property>
@@ -272,7 +273,7 @@ AddOutputFilter chunkFilter
 				</Item>
 				<Item Name="R1Loops.ctl" Type="VI" URL="../R1/R1Controls/R1Loops.ctl"/>
 				<Item Name="R1NH4_Manual.ctl" Type="VI" URL="../R1/R1Controls/R1NH4_Manual.ctl"/>
-				<Item Name="R1SBR_SetParams.ctl" Type="VI" URL="../R1/R1Controls/R1SBR_SetParams.ctl"/>
+				<Item Name="R1SBR_SetParams.ctl" Type="VI" URL="../Controls/R1SBR_SetParams.ctl"/>
 			</Item>
 			<Item Name="R1CleanUp.vi" Type="VI" URL="../R1/R1CleanUp.vi"/>
 			<Item Name="R1DataCollection.vi" Type="VI" URL="../R1/R1DataCollection.vi"/>
@@ -1867,7 +1868,7 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="R1" Type="Web Service">
 			<Property Name="Bld_buildSpecName" Type="Str"></Property>
-			<Property Name="Bld_version.build" Type="Int">3</Property>
+			<Property Name="Bld_version.build" Type="Int">4</Property>
 			<Property Name="ws.autoIncrementVersion" Type="Bool">true</Property>
 			<Property Name="ws.disconnectInline" Type="Bool">true</Property>
 			<Property Name="ws.disconnectTypeDefs" Type="Bool">false</Property>
@@ -1879,7 +1880,7 @@ AddOutputFilter chunkFilter
 			<Property Name="ws.serveDefaultDoc" Type="Bool">true</Property>
 			<Property Name="ws.SSE2" Type="Bool">true</Property>
 			<Property Name="ws.static_permissions" Type="Str"></Property>
-			<Property Name="ws.version.build" Type="Int">13</Property>
+			<Property Name="ws.version.build" Type="Int">14</Property>
 			<Property Name="ws.version.fix" Type="Int">0</Property>
 			<Property Name="ws.version.major" Type="Int">1</Property>
 			<Property Name="ws.version.minor" Type="Int">0</Property>
@@ -1889,81 +1890,6 @@ AddOutputFilter chunkFilter
 				</Item>
 			</Item>
 			<Item Name="Web Resources" Type="HTTP WebResources Container">
-				<Item Name="R1DOControl_Status.vi" Type="VI" URL="../R1/R1DOControl_Status.vi">
-					<Property Name="ws.buffered" Type="Bool">true</Property>
-					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
-					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
-					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
-					<Property Name="ws.method" Type="Int">1</Property>
-					<Property Name="ws.outputFormat" Type="Int">2</Property>
-					<Property Name="ws.outputType" Type="Int">0</Property>
-					<Property Name="ws.permissions" Type="Str"></Property>
-					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
-					<Property Name="ws.type" Type="Int">1</Property>
-					<Property Name="ws.uri" Type="Str"></Property>
-					<Property Name="ws.useHeaders" Type="Bool">true</Property>
-					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
-				</Item>
-				<Item Name="R1GetLoops.vi" Type="VI" URL="../R1/R1GetLoops.vi">
-					<Property Name="ws.buffered" Type="Bool">true</Property>
-					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
-					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
-					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
-					<Property Name="ws.method" Type="Int">1</Property>
-					<Property Name="ws.outputFormat" Type="Int">2</Property>
-					<Property Name="ws.outputType" Type="Int">0</Property>
-					<Property Name="ws.permissions" Type="Str"></Property>
-					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
-					<Property Name="ws.type" Type="Int">1</Property>
-					<Property Name="ws.uri" Type="Str"></Property>
-					<Property Name="ws.useHeaders" Type="Bool">true</Property>
-					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
-				</Item>
-				<Item Name="R1GetOtherConstants.vi" Type="VI" URL="../R1/R1GetOtherConstants.vi">
-					<Property Name="ws.buffered" Type="Bool">true</Property>
-					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
-					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
-					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
-					<Property Name="ws.method" Type="Int">1</Property>
-					<Property Name="ws.outputFormat" Type="Int">2</Property>
-					<Property Name="ws.outputType" Type="Int">0</Property>
-					<Property Name="ws.permissions" Type="Str"></Property>
-					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
-					<Property Name="ws.type" Type="Int">1</Property>
-					<Property Name="ws.uri" Type="Str"></Property>
-					<Property Name="ws.useHeaders" Type="Bool">true</Property>
-					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
-				</Item>
-				<Item Name="R1GetSignals.vi" Type="VI" URL="../R1/R1GetSignals.vi">
-					<Property Name="ws.buffered" Type="Bool">true</Property>
-					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
-					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
-					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
-					<Property Name="ws.method" Type="Int">1</Property>
-					<Property Name="ws.outputFormat" Type="Int">2</Property>
-					<Property Name="ws.outputType" Type="Int">0</Property>
-					<Property Name="ws.permissions" Type="Str"></Property>
-					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
-					<Property Name="ws.type" Type="Int">1</Property>
-					<Property Name="ws.uri" Type="Str"></Property>
-					<Property Name="ws.useHeaders" Type="Bool">true</Property>
-					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
-				</Item>
-				<Item Name="R1pHControl_Status.vi" Type="VI" URL="../R1/R1pHControl_Status.vi">
-					<Property Name="ws.buffered" Type="Bool">true</Property>
-					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
-					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
-					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
-					<Property Name="ws.method" Type="Int">1</Property>
-					<Property Name="ws.outputFormat" Type="Int">2</Property>
-					<Property Name="ws.outputType" Type="Int">0</Property>
-					<Property Name="ws.permissions" Type="Str"></Property>
-					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
-					<Property Name="ws.type" Type="Int">1</Property>
-					<Property Name="ws.uri" Type="Str"></Property>
-					<Property Name="ws.useHeaders" Type="Bool">true</Property>
-					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
-				</Item>
 				<Item Name="R1SBRControl_Status.vi" Type="VI" URL="../R1/R1SBRControl_Status.vi">
 					<Property Name="ws.buffered" Type="Bool">true</Property>
 					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
@@ -1979,22 +1905,31 @@ AddOutputFilter chunkFilter
 					<Property Name="ws.useHeaders" Type="Bool">true</Property>
 					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
-				<Item Name="R1SetCalibrateConstant.vi" Type="VI" URL="../R1/R1SetCalibrateConstant.vi">
-					<Property Name="ws.buffered" Type="Bool">true</Property>
-					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
-					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
-					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
+				<Item Name="R1GetLoops.vi" Type="VI" URL="../R1/R1GetLoops.vi">
 					<Property Name="ws.method" Type="Int">1</Property>
-					<Property Name="ws.outputFormat" Type="Int">2</Property>
-					<Property Name="ws.outputType" Type="Int">0</Property>
-					<Property Name="ws.permissions" Type="Str"></Property>
-					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
-					<Property Name="ws.uri" Type="Str"></Property>
-					<Property Name="ws.useHeaders" Type="Bool">true</Property>
-					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
+				</Item>
+				<Item Name="R1GetOtherConstants.vi" Type="VI" URL="../R1/R1GetOtherConstants.vi">
+					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.type" Type="Int">1</Property>
+				</Item>
+				<Item Name="R1GetSignals.vi" Type="VI" URL="../R1/R1GetSignals.vi">
+					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.type" Type="Int">1</Property>
+				</Item>
+				<Item Name="R1SetCalibrateConstant.vi" Type="VI" URL="../R1/R1SetCalibrateConstant.vi">
+					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.type" Type="Int">1</Property>
 				</Item>
 				<Item Name="R1SetOtherConstants.vi" Type="VI" URL="../R1/R1Controls/R1SetOtherConstants.vi">
+					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.type" Type="Int">1</Property>
+				</Item>
+				<Item Name="R1pHControl_Status.vi" Type="VI" URL="../R1/R1pHControl_Status.vi">
+					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.type" Type="Int">1</Property>
+				</Item>
+				<Item Name="R1DOControl_Status.vi" Type="VI" URL="../R1/R1DOControl_Status.vi">
 					<Property Name="ws.buffered" Type="Bool">true</Property>
 					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
 					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
