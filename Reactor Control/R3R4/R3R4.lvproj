@@ -188,6 +188,7 @@ AddOutputFilter chunkFilter
 				<Item Name="R3_Turn Pumps Off.vi" Type="VI" URL="../R3/R3_Turn Pumps Off.vi"/>
 				<Item Name="R3Variables.lvlib" Type="Library" URL="../R3/R3Variables.lvlib"/>
 			</Item>
+			<Item Name="R4" Type="Folder"/>
 		</Item>
 		<Item Name="Chassis" Type="cRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">express</Property>
