@@ -22,7 +22,7 @@
 	<Property Name="varPersistentID:{180C554B-8FC4-4EA4-AC15-ECB20E2B9CCA}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod5/M5AI0</Property>
 	<Property Name="varPersistentID:{1C3D9640-E96E-459B-A69C-F1CE671B6385}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI7</Property>
 	<Property Name="varPersistentID:{1DBDF1A9-1A62-4668-87F1-FFAFA6E17FC4}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/R2 SBR Timing Control</Property>
-	<Property Name="varPersistentID:{1FB38C57-708E-446F-8B60-7E36822ACA28}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod7/DO6</Property>
+	<Property Name="varPersistentID:{1FB38C57-708E-446F-8B60-7E36822ACA28}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod7/M7DO6</Property>
 	<Property Name="varPersistentID:{20C3D76D-D07C-41F0-B78B-6D9775A0E552}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod2/M2DO4</Property>
 	<Property Name="varPersistentID:{22BC2611-264C-4DB8-A51F-F8E27579094D}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1AirIntercept</Property>
 	<Property Name="varPersistentID:{246B1603-9368-4767-AE1E-0455552AD5E3}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod1/M1AI2</Property>
@@ -76,7 +76,7 @@
 	<Property Name="varPersistentID:{79708F68-5E4D-4DC4-AA4D-7157455E4957}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod1/M1AI6</Property>
 	<Property Name="varPersistentID:{7AF1E59F-3730-4D40-8C8F-44210CA25376}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/Calibration Variables/R2DOCalM</Property>
 	<Property Name="varPersistentID:{7CA21AB2-F831-46E6-BE84-60E1803AB3F7}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod2/M2DO0</Property>
-	<Property Name="varPersistentID:{7D9FE2C5-F14C-43EC-A085-6E14AADF46AD}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod7/DO5</Property>
+	<Property Name="varPersistentID:{7D9FE2C5-F14C-43EC-A085-6E14AADF46AD}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod7/M7DO5</Property>
 	<Property Name="varPersistentID:{7FEAA529-0241-4500-BC51-7C95DA951934}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Signals.lvlib/R1DO</Property>
 	<Property Name="varPersistentID:{825DBA36-0B89-4B7B-B649-07F6B20C3E7B}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Totalizers.lvlib/R1N2ValveTotalizer</Property>
 	<Property Name="varPersistentID:{8583A7B5-2696-452C-963D-BF2857491A57}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Status</Property>
@@ -99,7 +99,7 @@
 	<Property Name="varPersistentID:{A0A4F7AF-A871-4363-BCBC-6DEBCD2D94EA}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/Calibration Variables/R2DOCalB</Property>
 	<Property Name="varPersistentID:{A213A69A-5F69-4DBD-8930-213F65EC2DEA}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1NH4NaOn</Property>
 	<Property Name="varPersistentID:{A48571CA-66D8-436E-9C05-0B819E3687CA}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/Elapsed Time</Property>
-	<Property Name="varPersistentID:{A5342653-CECB-4F13-BB5E-F981E206488D}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod7/DO4</Property>
+	<Property Name="varPersistentID:{A5342653-CECB-4F13-BB5E-F981E206488D}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod7/M7DO4</Property>
 	<Property Name="varPersistentID:{A73EC8C6-AE86-4712-91A4-B94804854202}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/Calibration Variables/R2pHCalB</Property>
 	<Property Name="varPersistentID:{ABFB7216-2A52-414E-9275-7D4AB1B6425F}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/R2Status</Property>
 	<Property Name="varPersistentID:{AC119D67-C619-43FF-ACDE-1DBEE6AD5687}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI21</Property>
@@ -144,7 +144,7 @@
 	<Property Name="varPersistentID:{F1552F2F-F0BB-40F0-9383-265A1F447ECA}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/R2 DO Control</Property>
 	<Property Name="varPersistentID:{F29D072C-81F2-44AC-8A98-D6FAAD0133B7}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/R2DOControlOn</Property>
 	<Property Name="varPersistentID:{F2CFFB0D-11B5-47CF-B553-8CCF223C8004}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod5/M5AI5</Property>
-	<Property Name="varPersistentID:{F3E1DE2F-8DD1-4F4B-9E5E-AA7AAAB4ADA8}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod7/DO3</Property>
+	<Property Name="varPersistentID:{F3E1DE2F-8DD1-4F4B-9E5E-AA7AAAB4ADA8}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod7/M7DO3</Property>
 	<Property Name="varPersistentID:{F4E8C718-833A-41FB-B69D-75398BDE3D89}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI17</Property>
 	<Property Name="varPersistentID:{F51907E7-C376-44B0-AEB9-CD1F8CDF978D}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1ORPIntercept</Property>
 	<Property Name="varPersistentID:{F72CD252-6867-4232-A252-A9F07E1E7C2A}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1pHSlope</Property>
@@ -1704,7 +1704,7 @@ DirectoryIndex index.htm
 					<Property Name="type" Type="Str">Industrial</Property>
 					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
-				<Item Name="DO3" Type="Variable">
+				<Item Name="M7DO3" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
 					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
 					<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
@@ -1718,7 +1718,7 @@ DirectoryIndex index.htm
 					<Property Name="type" Type="Str">Industrial</Property>
 					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
-				<Item Name="DO4" Type="Variable">
+				<Item Name="M7DO4" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
 					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
 					<Property Name="Industrial:ChannelIndex" Type="Str">4</Property>
@@ -1732,7 +1732,7 @@ DirectoryIndex index.htm
 					<Property Name="type" Type="Str">Industrial</Property>
 					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
-				<Item Name="DO5" Type="Variable">
+				<Item Name="M7DO5" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
 					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
 					<Property Name="Industrial:ChannelIndex" Type="Str">5</Property>
@@ -1746,7 +1746,7 @@ DirectoryIndex index.htm
 					<Property Name="type" Type="Str">Industrial</Property>
 					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
-				<Item Name="DO6" Type="Variable">
+				<Item Name="M7DO6" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
 					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
 					<Property Name="Industrial:ChannelIndex" Type="Str">6</Property>
@@ -1858,7 +1858,9 @@ DirectoryIndex index.htm
 			</Item>
 		</Item>
 		<Item Name="CollectISEOnly.vi" Type="VI" URL="../R1/CollectISEOnly.vi"/>
-		<Item Name="Data_aq.vi" Type="VI" URL="../Data_aq.vi"/>
+		<Item Name="Data_Aquisition_cRIO1.vi" Type="VI" URL="../Data_Aquisition_cRIO1.vi">
+			<Property Name="ws.type" Type="Int">2</Property>
+		</Item>
 		<Item Name="module check.vi" Type="VI" URL="../module check.vi"/>
 		<Item Name="R0" Type="Web Service">
 			<Property Name="ws.guid" Type="Str">{3C508B41-57AA-4A1A-A42D-5142BCF722C8}</Property>
@@ -1867,7 +1869,7 @@ DirectoryIndex index.htm
 		</Item>
 		<Item Name="R1" Type="Web Service">
 			<Property Name="Bld_buildSpecName" Type="Str"></Property>
-			<Property Name="Bld_version.build" Type="Int">5</Property>
+			<Property Name="Bld_version.build" Type="Int">7</Property>
 			<Property Name="ws.autoIncrementVersion" Type="Bool">true</Property>
 			<Property Name="ws.disconnectInline" Type="Bool">true</Property>
 			<Property Name="ws.disconnectTypeDefs" Type="Bool">false</Property>
@@ -1879,7 +1881,7 @@ DirectoryIndex index.htm
 			<Property Name="ws.serveDefaultDoc" Type="Bool">true</Property>
 			<Property Name="ws.SSE2" Type="Bool">true</Property>
 			<Property Name="ws.static_permissions" Type="Str"></Property>
-			<Property Name="ws.version.build" Type="Int">15</Property>
+			<Property Name="ws.version.build" Type="Int">17</Property>
 			<Property Name="ws.version.fix" Type="Int">0</Property>
 			<Property Name="ws.version.major" Type="Int">1</Property>
 			<Property Name="ws.version.minor" Type="Int">0</Property>
@@ -2009,8 +2011,26 @@ DirectoryIndex index.htm
 					<Property Name="ws.useHeaders" Type="Bool">true</Property>
 					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
+				<Item Name="R1SBRControl_Switch.vi" Type="VI" URL="../R1/R1SBRControl_Switch.vi">
+					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.type" Type="Int">1</Property>
+				</Item>
+				<Item Name="R1pHControl_Switch.vi" Type="VI" URL="../R1/R1pHControl_Switch.vi">
+					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.type" Type="Int">1</Property>
+				</Item>
+				<Item Name="R1DOControl_Switch.vi" Type="VI" URL="../R1/R1DOControl_Switch.vi">
+					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.type" Type="Int">1</Property>
+				</Item>
+				<Item Name="R1DOControl_Manual.vi" Type="VI" URL="../R1/R1DOControl_Manual.vi">
+					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.type" Type="Int">1</Property>
+				</Item>
 			</Item>
 		</Item>
+		<Item Name="test.vi" Type="VI" URL="../R1/test.vi"/>
+		<Item Name="R1DOControl_SetParams.vi" Type="VI" URL="../R1/R1DOControl_SetParams.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Dynamic To Waveform Array.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/transition.llb/Dynamic To Waveform Array.vi"/>
@@ -2021,10 +2041,8 @@ DirectoryIndex index.htm
 				<Item Name="ni_tagger_lv_FlushAllConnections.vi" Type="VI" URL="/&lt;vilib&gt;/variable/tagger/ni_tagger_lv_FlushAllConnections.vi"/>
 				<Item Name="NI_VariableUtilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Variable/NI_VariableUtilities.lvlib"/>
 				<Item Name="NI_WebServices.lvlib" Type="Library" URL="/&lt;vilib&gt;/wsapi/NI_WebServices.lvlib"/>
-				<Item Name="SetT0.vi" Type="VI" URL="/&lt;vilib&gt;/express/express signal manip/GetorSetDDTAttributes/Set DDT Attributes/SetT0.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="subBuildXYGraph.vi" Type="VI" URL="/&lt;vilib&gt;/express/express controls/BuildXYGraphBlock.llb/subBuildXYGraph.vi"/>
-				<Item Name="Waveform Array To Dynamic.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/transition.llb/Waveform Array To Dynamic.vi"/>
 				<Item Name="Write Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (DBL).vi"/>
 				<Item Name="Write Delimited Spreadsheet (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (I64).vi"/>
 				<Item Name="Write Delimited Spreadsheet (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (string).vi"/>
