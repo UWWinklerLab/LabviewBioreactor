@@ -2011,6 +2011,18 @@ DirectoryIndex index.htm
 					<Property Name="ws.useHeaders" Type="Bool">true</Property>
 					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
+				<Item Name="R1SBRControl_SetParams.vi" Type="VI" URL="../R1/R1SBRControl_SetParams.vi">
+					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.type" Type="Int">1</Property>
+				</Item>
+				<Item Name="R1SBRControl_Manual.vi" Type="VI" URL="../R1/R1SBRControl_Manual.vi">
+					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.type" Type="Int">1</Property>
+				</Item>
+				<Item Name="R1DOControl_SetParams.vi" Type="VI" URL="../R1/R1DOControl_SetParams.vi">
+					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.type" Type="Int">1</Property>
+				</Item>
 				<Item Name="R1SBRControl_Switch.vi" Type="VI" URL="../R1/R1SBRControl_Switch.vi">
 					<Property Name="ws.method" Type="Int">1</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
@@ -2030,7 +2042,7 @@ DirectoryIndex index.htm
 			</Item>
 		</Item>
 		<Item Name="test.vi" Type="VI" URL="../R1/test.vi"/>
-		<Item Name="R1DOControl_SetParams.vi" Type="VI" URL="../R1/R1DOControl_SetParams.vi"/>
+		<Item Name="R1pHControl_Manual.vi" Type="VI" URL="../R1/R1pHControl_Manual.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Dynamic To Waveform Array.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/transition.llb/Dynamic To Waveform Array.vi"/>
