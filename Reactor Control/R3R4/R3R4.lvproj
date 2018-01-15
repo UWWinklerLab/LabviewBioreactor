@@ -2,29 +2,33 @@
 <Project Type="Project" LVVersion="16008000">
 	<Property Name="varPersistentID:{003E4334-1B91-4B2A-AFF0-8C12AAC62B38}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4CalibrationConstants.lvlib/R4AirIntercept</Property>
 	<Property Name="varPersistentID:{07C7E04B-AA95-46E6-8C42-530D41DEF4F2}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/R3 Elapsed Time</Property>
-	<Property Name="varPersistentID:{0989925E-C7B8-4D0F-AB30-F2615ECBE8CC}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/R3 pH Control</Property>
+	<Property Name="varPersistentID:{0989925E-C7B8-4D0F-AB30-F2615ECBE8CC}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/R3 PR pH Control</Property>
 	<Property Name="varPersistentID:{0E5FEE54-19E5-421D-8E3B-CF80E36ED318}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4Controls.lvlib/R4pHSetParams</Property>
 	<Property Name="varPersistentID:{10CB4EB4-1888-46E7-9CC5-F92EEE1A1BF0}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4Signals.lvlib/R4Air</Property>
 	<Property Name="varPersistentID:{12391108-DAC8-42A0-BC94-AF79816D0652}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/R3 Mode</Property>
-	<Property Name="varPersistentID:{13CFADA4-E604-496C-9135-B78455206707}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/Calibration Variables/R3 pHCalM</Property>
+	<Property Name="varPersistentID:{13CFADA4-E604-496C-9135-B78455206707}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/Calibration Variables/R3 PR pHCalM</Property>
 	<Property Name="varPersistentID:{141710D6-C01D-47E3-8446-0FE3A371EA4E}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4Totalizers.lvlib/R4AcidPumpTotalizer</Property>
-	<Property Name="varPersistentID:{16FD30D1-8AD9-4DBE-9E44-C8156D6DE7A0}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod3/M3AI0 R3 pH</Property>
+	<Property Name="varPersistentID:{16FD30D1-8AD9-4DBE-9E44-C8156D6DE7A0}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod3/M3AI0 R3 PR pH</Property>
 	<Property Name="varPersistentID:{178BBDFF-6A08-46DC-80A2-DA9926E4703A}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod2/M2AO2</Property>
 	<Property Name="varPersistentID:{17982F68-9A9E-482B-AFCE-4D858190E79F}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod1/M1DO6 R3 PR Recycle</Property>
 	<Property Name="varPersistentID:{1C963884-E80C-4AF7-B29F-D6252BAA2E4E}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4OtherConstants.lvlib/R4DataPointsToAverage</Property>
+	<Property Name="varPersistentID:{1CB85622-B025-486A-BE54-A04CC2C50470}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/Calibration Variables/R3 AR pH Calibration</Property>
+	<Property Name="varPersistentID:{1E2ED73A-85F4-480A-8804-670E906F5929}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/R3 AR pH Control On</Property>
 	<Property Name="varPersistentID:{208A3436-1170-402B-8B75-E38832F49EB4}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod3/M3AI1 R3 DO</Property>
 	<Property Name="varPersistentID:{211DE9BA-5A61-4370-B742-A3E3E442C7EA}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod5/DO4</Property>
 	<Property Name="varPersistentID:{22A55D25-9F43-486F-8DE1-62497FEF5361}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4CalibrationConstants.lvlib/R4AirSlope</Property>
 	<Property Name="varPersistentID:{234D3658-036B-4CBB-97B8-41164665D117}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod2/M2AO0 R4 air</Property>
+	<Property Name="varPersistentID:{289C88F2-3E99-41B2-B982-044614D2AB2E}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/Calibration Variables/R3 AR pHCalM</Property>
 	<Property Name="varPersistentID:{2ABF0C0E-3DE0-4309-9AF7-503877AF2609}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/R3 Pumps Manual Control</Property>
 	<Property Name="varPersistentID:{373F6505-71E3-400A-AB45-F64CF30BAFBB}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod3/M3AI4 R4 Air</Property>
-	<Property Name="varPersistentID:{3ACC477E-6CCA-473D-BFDD-D24D663AB2FB}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod3/M3AI6</Property>
+	<Property Name="varPersistentID:{3ACC477E-6CCA-473D-BFDD-D24D663AB2FB}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod3/M3AI6 R3 AR pH</Property>
 	<Property Name="varPersistentID:{4006E4AF-513D-4CA1-8143-0FCF9A1BF453}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/Calibration Variables/R3 DOCalB</Property>
 	<Property Name="varPersistentID:{423C0057-3369-42FB-BB04-460945A4F7F1}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod1/M1DO7 R3 PR Aeration</Property>
 	<Property Name="varPersistentID:{44986042-CDFF-4289-8EFE-FE64AA63F642}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod4/M4DO2 R4 Eff</Property>
 	<Property Name="varPersistentID:{48ADF674-401A-4A04-ACF5-6C11BFF84A3D}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4CalibrationConstants.lvlib/R4N2Intercept</Property>
-	<Property Name="varPersistentID:{4B0E421F-868A-4B1B-B4DF-8244B340A7EA}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod5/DO0</Property>
-	<Property Name="varPersistentID:{4F43B5CD-090C-45FB-A5D3-F4E820EB11F8}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/Calibration Variables/R3 pHCalB</Property>
+	<Property Name="varPersistentID:{4B0E421F-868A-4B1B-B4DF-8244B340A7EA}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod5/M5DO0 R3 AR Acid</Property>
+	<Property Name="varPersistentID:{4EB90CF6-9937-4C3B-A155-8950E95DA6C4}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/Calibration Variables/R3 AR pHCalB</Property>
+	<Property Name="varPersistentID:{4F43B5CD-090C-45FB-A5D3-F4E820EB11F8}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/Calibration Variables/R3 PR pHCalB</Property>
 	<Property Name="varPersistentID:{509B67EB-07CA-40F6-B418-E3BF368863CF}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/Calibration Variables/R3 DO Calibration</Property>
 	<Property Name="varPersistentID:{516C775D-394F-4FF0-8BEB-C6E72106041E}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4AIDataBuffer</Property>
 	<Property Name="varPersistentID:{584F14EF-EB23-4A94-8E72-88D1E84A1D94}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod3/M3AI7</Property>
@@ -46,15 +50,16 @@
 	<Property Name="varPersistentID:{8985E617-4546-4AF3-AFD4-C0589B093249}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod4/M4DO5 R4 Media</Property>
 	<Property Name="varPersistentID:{8A2786E9-B39B-4C69-8752-30BCFE68080E}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4Controls.lvlib/R4DOSwitch</Property>
 	<Property Name="varPersistentID:{8BFAAAC4-1082-4D69-B12D-D88B86BCFE3E}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4Totalizers.lvlib/R4N2ValveTotalizer</Property>
+	<Property Name="varPersistentID:{8D465FBA-E5CA-4AAD-A3AB-562F64F5C275}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/R3 AR pH Control</Property>
 	<Property Name="varPersistentID:{91FC5465-54FF-432A-9D16-5AE3DA486443}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod4/M4DO3 R4 Acid</Property>
-	<Property Name="varPersistentID:{94331455-0BD5-490C-A301-ED31D2DCE457}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod1/M1DO3 R3 AR Base</Property>
+	<Property Name="varPersistentID:{94331455-0BD5-490C-A301-ED31D2DCE457}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod1/M1DO3 R3 PR Base</Property>
 	<Property Name="varPersistentID:{97B82C18-EBD5-40A2-96CA-FFC3BD23D389}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4Signals.lvlib/R4pH</Property>
 	<Property Name="varPersistentID:{9E1DAE9F-1AD9-4DA3-89FD-B54DA085A0D1}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4Signals.lvlib/R4N2</Property>
 	<Property Name="varPersistentID:{A5DC0972-B00E-4E48-958F-87C2E45A42F3}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4Controls.lvlib/R4pHManual</Property>
 	<Property Name="varPersistentID:{A5EA8AFD-93DA-42A9-B61F-3E10FB2EAAE4}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/R3 SBR Timing Control</Property>
 	<Property Name="varPersistentID:{A75241CA-BB75-4DCA-86E8-8F62EC62112C}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4CalibrationConstants.lvlib/R4DOIntercept</Property>
 	<Property Name="varPersistentID:{A78280F9-B504-4683-954A-1C08E4AF7D9F}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4Totalizers.lvlib/R4BasePumpTotalizer</Property>
-	<Property Name="varPersistentID:{A8808220-5E8D-4020-BE9A-F7017348CCCC}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/R3 pH Control On</Property>
+	<Property Name="varPersistentID:{A8808220-5E8D-4020-BE9A-F7017348CCCC}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/R3 PR pH Control On</Property>
 	<Property Name="varPersistentID:{AF194A8F-899B-4659-A26C-D5C2EF73C7A8}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4Totalizers.lvlib/R4CycleTimeElapsed</Property>
 	<Property Name="varPersistentID:{B81ECF78-3887-421D-A215-56C480AE2FFD}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod3/M3AI3 R4 DO</Property>
 	<Property Name="varPersistentID:{B99EDCDC-026B-4658-9316-A1B1598DA525}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/R3 Phase</Property>
@@ -71,8 +76,8 @@
 	<Property Name="varPersistentID:{D4A2F117-AACB-440F-9DDA-604569F31629}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod3/M3AI5 R4 N2</Property>
 	<Property Name="varPersistentID:{D6A37C03-4CE9-4EA0-B55D-55487BB86897}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod4/M4DO0 R3 PR Stirring</Property>
 	<Property Name="varPersistentID:{D723FA7F-AA33-440A-BFCA-E032D3F630E3}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4Signals.lvlib/R4DO</Property>
-	<Property Name="varPersistentID:{DB77D0CC-C61D-4F79-A911-29C1FDE8C6A0}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/Calibration Variables/R3 pH Calibration</Property>
-	<Property Name="varPersistentID:{DD5AC6A1-5B5F-4769-BC2B-9E22B57F1A42}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod1/M1DO2 R3 AR Acid</Property>
+	<Property Name="varPersistentID:{DB77D0CC-C61D-4F79-A911-29C1FDE8C6A0}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/Calibration Variables/R3 PR pH Calibration</Property>
+	<Property Name="varPersistentID:{DD5AC6A1-5B5F-4769-BC2B-9E22B57F1A42}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod1/M1DO2 R3 PR Acid</Property>
 	<Property Name="varPersistentID:{DE77F164-69EF-4B48-AE93-60D8CB099E72}" Type="Ref">/cRIO2-WinklerLab/R3R4/R3/R3Variables.lvlib/R3 StopReactor</Property>
 	<Property Name="varPersistentID:{DFD60CAD-911E-4A8A-9ECD-879660A6911E}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod4/M4DO4 R4 Base</Property>
 	<Property Name="varPersistentID:{EA9FAD12-7B88-4C97-BC38-AD29F15C19A1}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4CalibrationConstants.lvlib/R4pHIntercept</Property>
@@ -81,7 +86,7 @@
 	<Property Name="varPersistentID:{EFFAD4FD-D2B1-4413-9186-1E5FAFDD457B}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4Controls.lvlib/R4DOManual</Property>
 	<Property Name="varPersistentID:{F09667C7-AC99-4685-966F-890F6F4C49FB}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod1/M1DO4 R3 PR Feed</Property>
 	<Property Name="varPersistentID:{F3F23D85-C5A3-4384-9CD5-27B98E04A961}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod5/DO6</Property>
-	<Property Name="varPersistentID:{F6048106-1407-4654-9825-C0FBDE5EA641}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod5/DO1</Property>
+	<Property Name="varPersistentID:{F6048106-1407-4654-9825-C0FBDE5EA641}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod5/M5DO1 R3 AR Base</Property>
 	<Property Name="varPersistentID:{F899A435-E872-4661-BB9A-B5F550486ECC}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4Controls.lvlib/R4SBRSetParams</Property>
 	<Property Name="varPersistentID:{FE1D8354-8144-47F7-AC29-2BC66587D0A1}" Type="Ref">/cRIO2-WinklerLab/Chassis/Mod2/M2AO3</Property>
 	<Property Name="varPersistentID:{FF829652-6089-4990-9634-3A90FE66F027}" Type="Ref">/cRIO2-WinklerLab/R3R4/R4/R4Controls/R4Variables.lvlib/R4CalibrationConstants.lvlib/R4DOSlope</Property>
@@ -185,11 +190,13 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="R3" Type="Folder">
 				<Item Name="R3 Time SBR Cycle.vi" Type="VI" URL="../R3/R3 Time SBR Cycle.vi"/>
+				<Item Name="R3_AR pH Control.vi" Type="VI" URL="../R3/R3_AR pH Control.vi"/>
+				<Item Name="R3_Calibrate AR pH.vi" Type="VI" URL="../R3/R3_Calibrate AR pH.vi"/>
 				<Item Name="R3_Calibrate DO.vi" Type="VI" URL="../R3/R3_Calibrate DO.vi"/>
-				<Item Name="R3_Calibrate pH.vi" Type="VI" URL="../R3/R3_Calibrate pH.vi"/>
-				<Item Name="R3_Control.vi" Type="VI" URL="../R3/R3_Control.vi"/>
+				<Item Name="R3_Calibrate PR pH.vi" Type="VI" URL="../R3/R3_Calibrate PR pH.vi"/>
+				<Item Name="R3_Control-REVISED.vi" Type="VI" URL="../R3/R3_Control-REVISED.vi"/>
 				<Item Name="R3_Data Collection.vi" Type="VI" URL="../R3/R3_Data Collection.vi"/>
-				<Item Name="R3_pH Control.vi" Type="VI" URL="../R3/R3_pH Control.vi"/>
+				<Item Name="R3_PR pH Control.vi" Type="VI" URL="../R3/R3_PR pH Control.vi"/>
 				<Item Name="R3_Setup.vi" Type="VI" URL="../R3/R3_Setup.vi"/>
 				<Item Name="R3_Turn Pumps Off.vi" Type="VI" URL="../R3/R3_Turn Pumps Off.vi"/>
 				<Item Name="R3Variables.lvlib" Type="Library" URL="../R3/R3Variables.lvlib"/>
@@ -273,7 +280,7 @@ AddOutputFilter chunkFilter
 					<Property Name="type" Type="Str">Industrial</Property>
 					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
-				<Item Name="M1DO2 R3 AR Acid" Type="Variable">
+				<Item Name="M1DO2 R3 PR Acid" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
 					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
 					<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
@@ -290,7 +297,7 @@ AddOutputFilter chunkFilter
 					<Property Name="type" Type="Str">Industrial</Property>
 					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
-				<Item Name="M1DO3 R3 AR Base" Type="Variable">
+				<Item Name="M1DO3 R3 PR Base" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
 					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
 					<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
@@ -466,7 +473,7 @@ AddOutputFilter chunkFilter
 				<Property Name="cRIOModule.EnableCalProperties" Type="Str">false</Property>
 				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
 				<Property Name="cRIOModule.MinConvTime" Type="Str">5.000000E+0</Property>
-				<Item Name="M3AI0 R3 pH" Type="Variable">
+				<Item Name="M3AI0 R3 PR pH" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
 					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
 					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
@@ -568,7 +575,7 @@ AddOutputFilter chunkFilter
 					<Property Name="type" Type="Str">Industrial</Property>
 					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
-				<Item Name="M3AI6" Type="Variable">
+				<Item Name="M3AI6 R3 AR pH" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
 					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
 					<Property Name="Industrial:ChannelIndex" Type="Str">6</Property>
@@ -784,34 +791,6 @@ AddOutputFilter chunkFilter
 				<Property Name="cRIOModule.DIO7_4InitialDir" Type="Str">0</Property>
 				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
 				<Property Name="cRIOModule.NumSyncRegs" Type="Str">11111111</Property>
-				<Item Name="DO0" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DO0</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="DO1" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">DO1</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
 				<Item Name="DO2" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
 					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
@@ -896,9 +875,37 @@ AddOutputFilter chunkFilter
 					<Property Name="type" Type="Str">Industrial</Property>
 					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
+				<Item Name="M5DO0 R3 AR Acid" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO0</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">False</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="M5DO1 R3 AR Base" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO1</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">False</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
 			</Item>
 		</Item>
-		<Item Name="Data_Aquisition_cRIO2.vi" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/Data_Aquisition_cRIO2.vi"/>
+		<Item Name="Data_Aquisition_cRIO3.vi" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/Data_Aquisition_cRIO3.vi"/>
 		<Item Name="module check.vi" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/module check.vi"/>
 		<Item Name="R4" Type="Web Service">
 			<Property Name="ws.guid" Type="Str">{38460CF7-9D70-4182-8751-2E6818B6B216}</Property>
@@ -942,6 +949,7 @@ AddOutputFilter chunkFilter
 				</Item>
 			</Item>
 		</Item>
+		<Item Name="test.vi" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Dynamic To Waveform Array.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/transition.llb/Dynamic To Waveform Array.vi"/>

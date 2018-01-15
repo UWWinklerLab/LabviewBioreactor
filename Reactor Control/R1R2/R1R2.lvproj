@@ -151,6 +151,7 @@
 	<Property Name="varPersistentID:{F76B6D7F-0415-4532-816D-C0B382F473BA}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod2/M2DO5</Property>
 	<Property Name="varPersistentID:{FAEC7C2B-F261-425C-95F0-A9D5DEF0449B}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod2/R6 Air Release Valve</Property>
 	<Property Name="varPersistentID:{FB694F1D-98D0-4AAA-A7FE-C59DEC76A21A}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_DO_SetParams</Property>
+	<Property Name="varPersistentID:{FD7FF8AD-46EF-49BF-B208-22FE1936541E}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/R2 High DO Control</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -287,13 +288,14 @@ DirectoryIndex index.htm
 		</Item>
 		<Item Name="R2" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Item Name="R2_Control.vi" Type="VI" URL="../R2/R2_Control.vi"/>
 			<Item Name="R2 Cycle Status.ctl" Type="VI" URL="../R2/R2 Cycle Status.ctl"/>
 			<Item Name="R2_Calibrate DO.vi" Type="VI" URL="../R2/R2_Calibrate DO.vi"/>
 			<Item Name="R2 Time SBR Cycle.vi" Type="VI" URL="../R2/R2 Time SBR Cycle.vi"/>
 			<Item Name="R2_Calibrate pH.vi" Type="VI" URL="../R2/R2_Calibrate pH.vi"/>
-			<Item Name="R2_Control.vi" Type="VI" URL="../R2/R2_Control.vi"/>
 			<Item Name="R2_Data Collection.vi" Type="VI" URL="../R2/R2_Data Collection.vi"/>
 			<Item Name="R2_DO Control.vi" Type="VI" URL="../R2/R2_DO Control.vi"/>
+			<Item Name="R2_High DO Control.vi" Type="VI" URL="../R2/R2_High DO Control.vi"/>
 			<Item Name="R2_pH Control.vi" Type="VI" URL="../R2/R2_pH Control.vi"/>
 			<Item Name="R2_Setup.vi" Type="VI" URL="../R2/R2_Setup.vi"/>
 			<Item Name="R2_Turn Pumps Off.vi" Type="VI" URL="../R2/R2_Turn Pumps Off.vi"/>
@@ -1869,7 +1871,7 @@ DirectoryIndex index.htm
 		</Item>
 		<Item Name="R1" Type="Web Service">
 			<Property Name="Bld_buildSpecName" Type="Str"></Property>
-			<Property Name="Bld_version.build" Type="Int">7</Property>
+			<Property Name="Bld_version.build" Type="Int">9</Property>
 			<Property Name="ws.autoIncrementVersion" Type="Bool">true</Property>
 			<Property Name="ws.disconnectInline" Type="Bool">true</Property>
 			<Property Name="ws.disconnectTypeDefs" Type="Bool">false</Property>
@@ -1881,7 +1883,7 @@ DirectoryIndex index.htm
 			<Property Name="ws.serveDefaultDoc" Type="Bool">true</Property>
 			<Property Name="ws.SSE2" Type="Bool">true</Property>
 			<Property Name="ws.static_permissions" Type="Str"></Property>
-			<Property Name="ws.version.build" Type="Int">17</Property>
+			<Property Name="ws.version.build" Type="Int">19</Property>
 			<Property Name="ws.version.fix" Type="Int">0</Property>
 			<Property Name="ws.version.major" Type="Int">1</Property>
 			<Property Name="ws.version.minor" Type="Int">0</Property>
@@ -2012,32 +2014,109 @@ DirectoryIndex index.htm
 					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 				<Item Name="R1SBRControl_SetParams.vi" Type="VI" URL="../R1/R1SBRControl_SetParams.vi">
+					<Property Name="ws.buffered" Type="Bool">true</Property>
+					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
+					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
+					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
 					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.outputFormat" Type="Int">2</Property>
+					<Property Name="ws.outputType" Type="Int">0</Property>
+					<Property Name="ws.permissions" Type="Str"></Property>
+					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
+					<Property Name="ws.uri" Type="Str"></Property>
+					<Property Name="ws.useHeaders" Type="Bool">true</Property>
+					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 				<Item Name="R1SBRControl_Manual.vi" Type="VI" URL="../R1/R1SBRControl_Manual.vi">
+					<Property Name="ws.buffered" Type="Bool">true</Property>
+					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
+					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
+					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
 					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.outputFormat" Type="Int">2</Property>
+					<Property Name="ws.outputType" Type="Int">0</Property>
+					<Property Name="ws.permissions" Type="Str"></Property>
+					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
+					<Property Name="ws.uri" Type="Str"></Property>
+					<Property Name="ws.useHeaders" Type="Bool">true</Property>
+					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 				<Item Name="R1DOControl_SetParams.vi" Type="VI" URL="../R1/R1DOControl_SetParams.vi">
+					<Property Name="ws.buffered" Type="Bool">true</Property>
+					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
+					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
+					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
 					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.outputFormat" Type="Int">2</Property>
+					<Property Name="ws.outputType" Type="Int">0</Property>
+					<Property Name="ws.permissions" Type="Str"></Property>
+					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
+					<Property Name="ws.uri" Type="Str"></Property>
+					<Property Name="ws.useHeaders" Type="Bool">true</Property>
+					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 				<Item Name="R1SBRControl_Switch.vi" Type="VI" URL="../R1/R1SBRControl_Switch.vi">
+					<Property Name="ws.buffered" Type="Bool">true</Property>
+					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
+					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
+					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
 					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.outputFormat" Type="Int">2</Property>
+					<Property Name="ws.outputType" Type="Int">0</Property>
+					<Property Name="ws.permissions" Type="Str"></Property>
+					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
+					<Property Name="ws.uri" Type="Str"></Property>
+					<Property Name="ws.useHeaders" Type="Bool">true</Property>
+					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 				<Item Name="R1pHControl_Switch.vi" Type="VI" URL="../R1/R1pHControl_Switch.vi">
+					<Property Name="ws.buffered" Type="Bool">true</Property>
+					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
+					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
+					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
 					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.outputFormat" Type="Int">2</Property>
+					<Property Name="ws.outputType" Type="Int">0</Property>
+					<Property Name="ws.permissions" Type="Str"></Property>
+					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
+					<Property Name="ws.uri" Type="Str"></Property>
+					<Property Name="ws.useHeaders" Type="Bool">true</Property>
+					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 				<Item Name="R1DOControl_Switch.vi" Type="VI" URL="../R1/R1DOControl_Switch.vi">
+					<Property Name="ws.buffered" Type="Bool">true</Property>
+					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
+					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
+					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
 					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.outputFormat" Type="Int">2</Property>
+					<Property Name="ws.outputType" Type="Int">0</Property>
+					<Property Name="ws.permissions" Type="Str"></Property>
+					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
+					<Property Name="ws.uri" Type="Str"></Property>
+					<Property Name="ws.useHeaders" Type="Bool">true</Property>
+					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 				<Item Name="R1DOControl_Manual.vi" Type="VI" URL="../R1/R1DOControl_Manual.vi">
+					<Property Name="ws.buffered" Type="Bool">true</Property>
+					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
+					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
+					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
 					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.outputFormat" Type="Int">2</Property>
+					<Property Name="ws.outputType" Type="Int">0</Property>
+					<Property Name="ws.permissions" Type="Str"></Property>
+					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
+					<Property Name="ws.uri" Type="Str"></Property>
+					<Property Name="ws.useHeaders" Type="Bool">true</Property>
+					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 			</Item>
 		</Item>
@@ -2069,6 +2148,7 @@ DirectoryIndex index.htm
 			<Item Name="ws_runtime.dll" Type="Document" URL="ws_runtime.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="UNIX_Time.vi" Type="VI" URL="../UNIX_Time.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
