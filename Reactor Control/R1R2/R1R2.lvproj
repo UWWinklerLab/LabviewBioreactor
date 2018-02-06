@@ -53,7 +53,7 @@
 	<Property Name="varPersistentID:{4E2D7CF6-7344-40BD-B463-A3B3E96E1844}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1NaEqDetectOn</Property>
 	<Property Name="varPersistentID:{51C50831-3276-4FCC-B430-84A650A2990D}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Totalizers.lvlib/R1AcidPumpTotalizer</Property>
 	<Property Name="varPersistentID:{520F0F04-7D8C-46FA-9169-A0884B6CCD4E}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI3</Property>
-	<Property Name="varPersistentID:{55967A90-AA46-432D-A923-A8BB07EC2299}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod7/DO7</Property>
+	<Property Name="varPersistentID:{55967A90-AA46-432D-A923-A8BB07EC2299}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod7/M7DO7</Property>
 	<Property Name="varPersistentID:{57468CE5-A734-48F6-AE83-506751FD68D6}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod4/M4DO5</Property>
 	<Property Name="varPersistentID:{587C73B0-4419-4BAE-8722-6A4171859BEA}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/R2pHControlOn</Property>
 	<Property Name="varPersistentID:{58F64E17-D401-4A78-BEE2-EA34F7C4B0BC}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI8</Property>
@@ -1762,7 +1762,7 @@ DirectoryIndex index.htm
 					<Property Name="type" Type="Str">Industrial</Property>
 					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
-				<Item Name="DO7" Type="Variable">
+				<Item Name="M7DO7" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
 					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
 					<Property Name="Industrial:ChannelIndex" Type="Str">7</Property>
@@ -1871,7 +1871,7 @@ DirectoryIndex index.htm
 		</Item>
 		<Item Name="R1" Type="Web Service">
 			<Property Name="Bld_buildSpecName" Type="Str"></Property>
-			<Property Name="Bld_version.build" Type="Int">9</Property>
+			<Property Name="Bld_version.build" Type="Int">10</Property>
 			<Property Name="ws.autoIncrementVersion" Type="Bool">true</Property>
 			<Property Name="ws.disconnectInline" Type="Bool">true</Property>
 			<Property Name="ws.disconnectTypeDefs" Type="Bool">false</Property>
@@ -1883,7 +1883,7 @@ DirectoryIndex index.htm
 			<Property Name="ws.serveDefaultDoc" Type="Bool">true</Property>
 			<Property Name="ws.SSE2" Type="Bool">true</Property>
 			<Property Name="ws.static_permissions" Type="Str"></Property>
-			<Property Name="ws.version.build" Type="Int">19</Property>
+			<Property Name="ws.version.build" Type="Int">20</Property>
 			<Property Name="ws.version.fix" Type="Int">0</Property>
 			<Property Name="ws.version.major" Type="Int">1</Property>
 			<Property Name="ws.version.minor" Type="Int">0</Property>
