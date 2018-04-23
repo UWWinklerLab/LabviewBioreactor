@@ -1,56 +1,56 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="16008000">
 	<Property Name="varPersistentID:{005BC3DB-F9DA-4F35-AD02-E64EB7C9D486}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod3/M3AI7</Property>
+	<Property Name="varPersistentID:{011D2F33-7DCF-4578-B4E2-86FE4BF95E8F}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5AirIntercept</Property>
 	<Property Name="varPersistentID:{0185310B-632D-4A55-8663-554ADEE56031}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod1/M1DO2 R5 acid</Property>
-	<Property Name="varPersistentID:{05AD3EA1-C417-4935-905F-CC32FABE588B}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5pHIntercept</Property>
+	<Property Name="varPersistentID:{039D22DA-A716-4210-A007-3AD5297FCA47}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Totalizers.lvlib/R5PhaseTimeElapsed</Property>
+	<Property Name="varPersistentID:{058E970A-83E9-4A1B-A72A-34E6EF037A08}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5SBRManual</Property>
 	<Property Name="varPersistentID:{0CEB4437-93FD-4F0E-80DF-1019A3026A4E}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod3/M3AI3 R5 N2</Property>
-	<Property Name="varPersistentID:{12D188C1-D24F-4DE4-9524-DA4F0CED1DD2}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5OtherConstants.lvlib/R5DataPointsToAverage</Property>
-	<Property Name="varPersistentID:{1BFB48D2-AC05-4BA9-A181-D55DAC58B65B}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Totalizers.lvlib/R5N2ValveTotalizer</Property>
-	<Property Name="varPersistentID:{2057B8A0-9B63-4EDA-8761-2967543D5993}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5pHManual</Property>
-	<Property Name="varPersistentID:{2359D485-6021-4BA1-9AD4-2C24E8CA99C7}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5DOSwitch</Property>
-	<Property Name="varPersistentID:{23CCF422-A62E-40CD-BEB4-584106589CD1}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Signals.lvlib/R5DO</Property>
+	<Property Name="varPersistentID:{13562099-90EC-4E62-A712-5054499DB10F}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Signals.lvlib/R5DO</Property>
+	<Property Name="varPersistentID:{1A24600F-2A11-4861-B3A7-DB7DA8E546EF}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Totalizers.lvlib/R5AcidPumpTotalizer</Property>
 	<Property Name="varPersistentID:{2C72B28F-88E6-4AA3-82F3-E9BC26347F83}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod3/M3AI0 R5 pH</Property>
+	<Property Name="varPersistentID:{2CCC0870-9364-462F-94CA-C91993138EA1}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5DOSwitch</Property>
 	<Property Name="varPersistentID:{2D1D7622-4977-4AE4-BF60-93F3CCE8412A}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod1/M1DO5</Property>
-	<Property Name="varPersistentID:{2DDA1C21-D38F-4688-B5E0-91835DEAF151}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Signals.lvlib/R5Air</Property>
-	<Property Name="varPersistentID:{3102590B-D46E-45D3-9767-61F50C4EDAF3}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5DOIntercept</Property>
-	<Property Name="varPersistentID:{355BEC33-573E-4BDB-A740-B6F92E2FC4F0}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5pHSetParams</Property>
+	<Property Name="varPersistentID:{45409C51-9A02-4437-8C05-B8BF150111C3}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5pHManual</Property>
 	<Property Name="varPersistentID:{4770FC01-4DA8-4F31-BFAA-8AC10B536164}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod3/M3AI1 R5 DO</Property>
-	<Property Name="varPersistentID:{4C04D222-6DD7-4DC9-8384-4610097F5DBE}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5SBRSwitch</Property>
-	<Property Name="varPersistentID:{54816E5B-12E3-4836-ABE8-9CB917B66660}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5DOSetParams</Property>
-	<Property Name="varPersistentID:{5CF0F20D-C5C1-4DEA-95B3-171ED357C4B9}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Signals.lvlib/R5N2</Property>
-	<Property Name="varPersistentID:{5DC2354E-DAAB-4DE2-B4D9-2FF721303BF5}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Totalizers.lvlib/R5AirValveTotalizer</Property>
-	<Property Name="varPersistentID:{6798299D-1186-47CF-A7FB-8A27BC90BA2C}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5DOManual</Property>
-	<Property Name="varPersistentID:{69C56878-DD73-4835-BB6D-4E9E82D251E4}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Status</Property>
+	<Property Name="varPersistentID:{5023AA54-F541-4535-BE1E-9B2F72D0E160}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5OtherConstants.lvlib/R5DataPointsToAverage</Property>
+	<Property Name="varPersistentID:{511602A8-6EF8-4837-9D40-0AE56A902D2E}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5pHSlope</Property>
+	<Property Name="varPersistentID:{554EE525-1FE0-4059-9A38-92B53C776F5B}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5DOIntercept</Property>
+	<Property Name="varPersistentID:{5BF71C19-9B9A-4D64-B144-8FB109F0F946}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5pHSetParams</Property>
+	<Property Name="varPersistentID:{64FA3FB9-3470-4D25-8C05-F3F533DEF8C5}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5AIDataBuffer</Property>
+	<Property Name="varPersistentID:{678BA542-F9A6-45C3-AC20-528E244E82E5}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Status</Property>
+	<Property Name="varPersistentID:{695F4F08-675F-482C-8CCD-9DC7E0F72152}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5pHSwitch</Property>
+	<Property Name="varPersistentID:{6C4417F7-B718-493F-8153-C5A8A41D9FCA}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5AirSlope</Property>
+	<Property Name="varPersistentID:{6C9E665B-A04A-44B0-A406-39137553F988}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5DOSetParams</Property>
+	<Property Name="varPersistentID:{70BB07E6-A988-42EA-9A39-CAFB654994CF}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5DOSlope</Property>
+	<Property Name="varPersistentID:{791C24FB-FFD2-4D06-AD2A-7FBE607D0DA7}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Timestamp</Property>
 	<Property Name="varPersistentID:{792B4EE2-E3D8-4FCB-A4A6-BAC9EFADDECA}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod2/M2AO2</Property>
-	<Property Name="varPersistentID:{7B155270-49C7-4DFF-8432-7A4A44FF6C22}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5AirIntercept</Property>
 	<Property Name="varPersistentID:{7C137369-2FF7-47C3-B012-B8DAB88E1F90}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod2/M2AO3</Property>
-	<Property Name="varPersistentID:{803AF521-4D34-4857-837C-3D167611B139}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5SBRManual</Property>
-	<Property Name="varPersistentID:{81994AED-856E-45B6-B50A-3386C80C2615}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5SBRSetParams</Property>
+	<Property Name="varPersistentID:{7F6A916D-24F0-4D08-B741-1C5FB92AD99E}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Signals.lvlib/R5pH</Property>
+	<Property Name="varPersistentID:{801DDC9E-241D-43F0-B4BC-B3B6127DB53A}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Totalizers.lvlib/R5CycleTimeElapsed</Property>
 	<Property Name="varPersistentID:{8201E0AE-698B-49BA-B693-64E0C8225391}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod2/M2AO1 R5 N2</Property>
-	<Property Name="varPersistentID:{8638D1A9-4B11-4011-A4CD-F3A26AFDCA96}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Signals.lvlib/R5pH</Property>
-	<Property Name="varPersistentID:{87F6D4C2-A1E5-4CC4-BBE9-766AA7D5747E}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5DOSlope</Property>
-	<Property Name="varPersistentID:{89A6A8CB-859C-4DCF-8FF6-D3E759A54A5E}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5pHSwitch</Property>
-	<Property Name="varPersistentID:{8E3662DD-21BB-4474-BBD2-29FFEE513F3E}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Totalizers.lvlib/R5AcidPumpTotalizer</Property>
-	<Property Name="varPersistentID:{917CCE2F-BC98-43B7-9CD3-9BE2DF586A55}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5N2Intercept</Property>
+	<Property Name="varPersistentID:{8CCEC794-1FEA-4169-924E-680FDEEB1BB5}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Totalizers.lvlib/R5BasePumpTotalizer</Property>
 	<Property Name="varPersistentID:{95FF2182-3ECE-481B-96EF-A97D5C29B799}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod1/M1DO3 R5 base</Property>
+	<Property Name="varPersistentID:{96CADCD4-D65D-4C4E-BFE0-3F23996B8F85}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5SBRSetParams</Property>
 	<Property Name="varPersistentID:{978C24E6-819B-48C0-91B8-8C4A14DB1A12}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod3/M3AI5</Property>
 	<Property Name="varPersistentID:{9C4C38D6-F316-43B3-9D5C-BC314F3F4FF9}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod3/M3AI4</Property>
+	<Property Name="varPersistentID:{A4CCFB7A-7A25-46C8-A7D6-E76FDE7B970E}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Signals.lvlib/R5Air</Property>
 	<Property Name="varPersistentID:{A53FB0B4-9B4F-4AE7-A81C-C8F181919641}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod1/M1DO4</Property>
-	<Property Name="varPersistentID:{AA418C20-D709-4E99-B5DF-033295A5AC17}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5AIDataBuffer</Property>
-	<Property Name="varPersistentID:{ADD896B1-86B7-4B4B-A6BA-4B694E8F7856}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Timestamp</Property>
 	<Property Name="varPersistentID:{B1F04150-0F2D-4B5A-9AEB-91E0B18C7A80}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod3/M3AI6</Property>
-	<Property Name="varPersistentID:{C3B73CA4-156D-4DF7-BF47-61FA16E0B996}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5AirSlope</Property>
+	<Property Name="varPersistentID:{C13A4144-A4F8-4C12-AB87-E75300549395}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Signals.lvlib/R5N2</Property>
+	<Property Name="varPersistentID:{C51DA2E2-59C3-4DD4-AFD7-58DC27F88062}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Totalizers.lvlib/R5AirValveTotalizer</Property>
+	<Property Name="varPersistentID:{C5E0DA79-C6C4-48C0-AB85-A41F5DF2665F}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5N2Intercept</Property>
 	<Property Name="varPersistentID:{C8B82274-2943-41E2-9448-14C5016DD03B}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod1/M1DO0 R5 inf</Property>
-	<Property Name="varPersistentID:{CD5B367C-8BA1-4AE6-8ED6-5C011EA63F3C}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Totalizers.lvlib/R5CycleTimeElapsed</Property>
+	<Property Name="varPersistentID:{C8C739FE-AD7E-4FDD-AF43-5944F6DC5C2C}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5N2Slope</Property>
+	<Property Name="varPersistentID:{CE5F0CC6-D56D-4398-AC1F-DBF90ACDD4C8}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5DOManual</Property>
 	<Property Name="varPersistentID:{CE925422-D5AD-403A-AEBB-EC2F62463A9C}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod1/M1DO7</Property>
-	<Property Name="varPersistentID:{D54D966F-BC4F-4E5B-A112-A067FCD3437D}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Totalizers.lvlib/R5BasePumpTotalizer</Property>
+	<Property Name="varPersistentID:{D5CBE508-4A4B-4622-B523-43A243036888}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Totalizers.lvlib/R5N2ValveTotalizer</Property>
 	<Property Name="varPersistentID:{D67365B8-B942-4D36-A62C-4FEB4BF4D9B0}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod2/M2AO0 R5 air</Property>
-	<Property Name="varPersistentID:{DCD3C1AC-269F-4CC8-AE69-FBDA971FB633}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5pHSlope</Property>
 	<Property Name="varPersistentID:{DCD958C0-5C09-4CF0-92EE-27C05C40B8F8}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod1/M1DO1 R5 eff</Property>
-	<Property Name="varPersistentID:{DD177065-2AB2-4146-91B0-A5A0AB9CC86A}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5N2Slope</Property>
 	<Property Name="varPersistentID:{E37C208E-6B10-4783-AEAA-BC8E4885A71A}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod1/M1DO6</Property>
 	<Property Name="varPersistentID:{E4FFC527-6BA2-4D72-91B2-CA7456600B67}" Type="Ref">/cRIO3-WinklerLab/Chassis/Mod3/M3AI2 R5 air</Property>
-	<Property Name="varPersistentID:{FB78C35D-857C-476D-9A47-A9C2F45E8C0B}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Totalizers.lvlib/R5PhaseTimeElapsed</Property>
+	<Property Name="varPersistentID:{E9B8095B-67EC-45C1-ABB9-184D4E020392}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5pHIntercept</Property>
+	<Property Name="varPersistentID:{EDBFCA09-A7D5-4A29-B6C0-FB62B6FB5A05}" Type="Ref">/cRIO3-WinklerLab/R5R6/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5SBRSwitch</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -534,109 +534,37 @@ AddOutputFilter chunkFilter
 				</Item>
 			</Item>
 			<Item Name="Web Resources" Type="HTTP WebResources Container">
-				<Item Name="R4DOControl_Status.vi" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/R4/R4DOControl_Status.vi">
-					<Property Name="ws.buffered" Type="Bool">true</Property>
-					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
-					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
-					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
+				<Item Name="R5DOControl_Status.vi" Type="VI" URL="../R5/R5DOControl_Status.vi">
 					<Property Name="ws.method" Type="Int">1</Property>
-					<Property Name="ws.outputFormat" Type="Int">2</Property>
-					<Property Name="ws.outputType" Type="Int">0</Property>
-					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
-					<Property Name="ws.useHeaders" Type="Bool">true</Property>
-					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
-				<Item Name="R4GetLoops.vi" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/R4/R4GetLoops.vi">
-					<Property Name="ws.buffered" Type="Bool">true</Property>
-					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
-					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
-					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
+				<Item Name="R5GetOtherConstants.vi" Type="VI" URL="../R5/R5GetOtherConstants.vi">
 					<Property Name="ws.method" Type="Int">1</Property>
-					<Property Name="ws.outputFormat" Type="Int">2</Property>
-					<Property Name="ws.outputType" Type="Int">0</Property>
-					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
-					<Property Name="ws.useHeaders" Type="Bool">true</Property>
-					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
-				<Item Name="R4GetOtherConstants.vi" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/R4/R4GetOtherConstants.vi">
-					<Property Name="ws.buffered" Type="Bool">true</Property>
-					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
-					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
-					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
+				<Item Name="R5GetLoops.vi" Type="VI" URL="../R5/R5GetLoops.vi">
 					<Property Name="ws.method" Type="Int">1</Property>
-					<Property Name="ws.outputFormat" Type="Int">2</Property>
-					<Property Name="ws.outputType" Type="Int">0</Property>
-					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
-					<Property Name="ws.useHeaders" Type="Bool">true</Property>
-					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
-				<Item Name="R4GetSignals.vi" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/R4/R4GetSignals.vi">
-					<Property Name="ws.buffered" Type="Bool">true</Property>
-					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
-					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
-					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
+				<Item Name="R5GetSignals.vi" Type="VI" URL="../R5/R5GetSignals.vi">
 					<Property Name="ws.method" Type="Int">1</Property>
-					<Property Name="ws.outputFormat" Type="Int">2</Property>
-					<Property Name="ws.outputType" Type="Int">0</Property>
-					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
-					<Property Name="ws.useHeaders" Type="Bool">true</Property>
-					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
-				<Item Name="R4pHControl_Status.vi" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/R4/R4pHControl_Status.vi">
-					<Property Name="ws.buffered" Type="Bool">true</Property>
-					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
-					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
-					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
+				<Item Name="R5pHControl_Status.vi" Type="VI" URL="../R5/R5pHControl_Status.vi">
 					<Property Name="ws.method" Type="Int">1</Property>
-					<Property Name="ws.outputFormat" Type="Int">2</Property>
-					<Property Name="ws.outputType" Type="Int">0</Property>
-					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
-					<Property Name="ws.useHeaders" Type="Bool">true</Property>
-					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
-				<Item Name="R4SBRControl_Status.vi" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/R4/R4SBRControl_Status.vi">
-					<Property Name="ws.buffered" Type="Bool">true</Property>
-					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
-					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
-					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
+				<Item Name="R5SBRControl_Status.vi" Type="VI" URL="../R5/R5SBRControl_Status.vi">
 					<Property Name="ws.method" Type="Int">1</Property>
-					<Property Name="ws.outputFormat" Type="Int">2</Property>
-					<Property Name="ws.outputType" Type="Int">0</Property>
-					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
-					<Property Name="ws.useHeaders" Type="Bool">true</Property>
-					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
-				<Item Name="R4SetCalibrateConstant.vi" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/R4/R4SetCalibrateConstant.vi">
-					<Property Name="ws.buffered" Type="Bool">true</Property>
-					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
-					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
-					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
+				<Item Name="R5SetCalibrateConstant.vi" Type="VI" URL="../R5/R5SetCalibrateConstant.vi">
 					<Property Name="ws.method" Type="Int">1</Property>
-					<Property Name="ws.outputFormat" Type="Int">2</Property>
-					<Property Name="ws.outputType" Type="Int">0</Property>
-					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
-					<Property Name="ws.useHeaders" Type="Bool">true</Property>
-					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
-				<Item Name="R4SetOtherConstants.vi" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/R4/R4SetOtherConstants.vi">
-					<Property Name="ws.buffered" Type="Bool">true</Property>
-					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
-					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
-					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
+				<Item Name="R5SetOtherConstants.vi" Type="VI" URL="../R5/R5SetOtherConstants.vi">
 					<Property Name="ws.method" Type="Int">1</Property>
-					<Property Name="ws.outputFormat" Type="Int">2</Property>
-					<Property Name="ws.outputType" Type="Int">0</Property>
-					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
-					<Property Name="ws.useHeaders" Type="Bool">true</Property>
-					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 			</Item>
 		</Item>
@@ -660,14 +588,6 @@ AddOutputFilter chunkFilter
 			<Item Name="nitaglv.dll" Type="Document" URL="nitaglv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="pH_Manual Standard.ctl" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/Controls/pH_Manual Standard.ctl"/>
-			<Item Name="pH_SetParams Standard.ctl" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/Controls/pH_SetParams Standard.ctl"/>
-			<Item Name="R4DO_Status.ctl" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/R4/R4Controls/R4DO_Status.ctl"/>
-			<Item Name="R4pH_Status.ctl" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/R4/R4Controls/R4pH_Status.ctl"/>
-			<Item Name="R4SBR_SetParams.ctl" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/R4/R4SBR_SetParams.ctl"/>
-			<Item Name="R4SBR_SetParams.ctl" Type="VI" URL="../R5/R4SBR_SetParams.ctl"/>
-			<Item Name="R4SBR_Status.ctl" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/R4/R4Controls/R4SBR_Status.ctl"/>
-			<Item Name="R4Signal_Status.ctl" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/R4/R4Controls/R4Signal_Status.ctl"/>
 			<Item Name="ws_runtime.dll" Type="Document" URL="ws_runtime.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>

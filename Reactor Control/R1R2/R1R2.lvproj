@@ -2122,6 +2122,8 @@ DirectoryIndex index.htm
 		</Item>
 		<Item Name="test.vi" Type="VI" URL="../R1/test.vi"/>
 		<Item Name="R1pHControl_Manual.vi" Type="VI" URL="../R1/R1pHControl_Manual.vi"/>
+		<Item Name="R1KSignalProcess.vi" Type="VI" URL="../R1/R1KSignalProcess.vi"/>
+		<Item Name="R1ORP.ctl" Type="VI" URL="../R1/R1Controls/R1ORP.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Dynamic To Waveform Array.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/transition.llb/Dynamic To Waveform Array.vi"/>
