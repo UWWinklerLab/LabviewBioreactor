@@ -512,7 +512,7 @@ AddOutputFilter chunkFilter
 				</Item>
 			</Item>
 		</Item>
-		<Item Name="Data_Aquisition_cRIO3.vi" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/Data_Aquisition_cRIO3.vi"/>
+		<Item Name="Data_Aquisition_cRIO3.vi" Type="VI" URL="../Data_Aquisition_cRIO3.vi"/>
 		<Item Name="R5" Type="Web Service">
 			<Property Name="ws.autoIncrementVersion" Type="Bool">true</Property>
 			<Property Name="ws.disconnectInline" Type="Bool">true</Property>
@@ -568,7 +568,7 @@ AddOutputFilter chunkFilter
 				</Item>
 			</Item>
 		</Item>
-		<Item Name="test.vi" Type="VI" URL="../../../../Bioreactor_Interface/labview/Reactor Control/R3R4/test.vi"/>
+		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>

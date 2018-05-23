@@ -24,7 +24,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typedefName1" Type="Str">DO_SetParams Variable.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../../../Controls/DO_SetParams Variable.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#WMA!!!"9!A!!!!!!&amp;!"6!#A!05W6U)&amp;"P;7ZU,#"N:S^-!"6!#A!06'^M:8*B&lt;G.F,#"N:S^-!".!#A!.4D)A6G&amp;M&gt;G5A2W&amp;J&lt;A!61!I!$E&amp;J=C"797RW:3"(97FO!!!Q1&amp;!!"!!!!!%!!A!$)%208V.F&gt;&amp;"B=G&amp;N=S!I6G&amp;S;7&amp;C&lt;'5A17.U&gt;7&amp;U&lt;X)J!!!"!!1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$=W!!!!"9!A!!!!!!(!"6!#A!05W6U)&amp;"P;7ZU,#"N:S^-!"6!#A!06'^M:8*B&lt;G.F,#"N:S^-!".!#A!.4D)A6G&amp;M&gt;G5A2W&amp;J&lt;A!61!I!$E&amp;J=C"797RW:3"(97FO!!!41!I!$520)%.Z9WRF,#"N;7Y!%5!+!!N%4S"'=G&amp;D&gt;'FP&lt;A!C1&amp;!!"A!!!!%!!A!$!!1!"1Z3.5208V.F&gt;&amp;"B=G&amp;N=Q!!!1!'!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="R5DOSwitch" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
