@@ -6,25 +6,20 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="R1NaEqDetectOn" Type="Variable">
+	<Item Name="R1_K_ISE" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="numTypedefs" Type="UInt">2</Property>
 		<Property Name="Path" Type="Str">/R1R2.lvproj/cRIO1-WinklerLab/R1/R1Variables.lvlib/R1ISEVariables.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+		<Property Name="typedefName1" Type="Str">ISE.ctl</Property>
+		<Property Name="typedefName2" Type="Str">Tri State Control.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../../Controls/ISE.ctl</Property>
+		<Property Name="typedefPath2" Type="PathRel">../../../Controls/Tri State Control.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$LZQ!!!"9!A!!!!!!'!!^!#A!*5G&amp;X)&amp;:B&lt;(6F!"6!#A!01W^S=G6D&gt;'6E)&amp;:B&lt;(6F!"&amp;!#A!+5WFH&lt;G&amp;M,#"N6A!!)U!+!"R&amp;=86J&lt;'FC=GFV&lt;3""=("S&lt;W&amp;D;#QA&lt;69P&lt;7FO!!!V!0%!!!!!!!!!!265=GEA5X2B&gt;'5A1W^O&gt;(*P&lt;#ZD&gt;'Q!&amp;U!'!!V4&gt;'6B:(EA5X2B&gt;'5`!#A!]1!!!!!!!!!""UF423ZD&gt;'Q!'%"1!!5!!!!"!!)!!Q!%!UF421!"!!5!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="R1NaEqDetectSet" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
-		<Property Name="Network:UseBinding" Type="Str">False</Property>
-		<Property Name="Network:UseBuffering" Type="Str">False</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/R1R2.lvproj/cRIO1-WinklerLab/R1/R1Variables.lvlib/R1ISEVariables.lvlib/</Property>
-		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-	</Item>
-	<Item Name="R1NaEqDetectTime" Type="Variable">
+	<Item Name="R1_K_Raw" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
@@ -33,50 +28,31 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="R1NaISERaw" Type="Variable">
+	<Item Name="R1_K_SetParams" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-	</Item>
-	<Item Name="R1NH4EqDetectOn" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
-		<Property Name="Network:UseBinding" Type="Str">False</Property>
-		<Property Name="Network:UseBuffering" Type="Str">False</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="numTypedefs" Type="UInt">1</Property>
 		<Property Name="Path" Type="Str">/R1R2.lvproj/cRIO1-WinklerLab/R1/R1Variables.lvlib/R1ISEVariables.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+		<Property Name="typedefName1" Type="Str">ISE_CF.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../../Controls/ISE_CF.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'8EQ%!!"9!A!!!!!!.!#&gt;!#A!A28&amp;V;7QA18"Q=G^B9WAA5W6U)("P;7ZU,#"N6C^N;7Y!!"N!#A!528&amp;V;7QA18"Q=G^B9WAA:(1M)(-!!"&gt;!#A!21W^S=G6D&gt;'FP&lt;C"'97.U&lt;X)!$%!Q`````Q.*&lt;WY!&amp;E!B%%.P=H*F9X1A2G^S)%FP&lt;D]!!#=!]1!!!!!!!!!"#EF426^$2CZD&gt;'Q!&amp;%"1!!-!!A!$!!1$36.&amp;!#R!1!!"`````Q!&amp;(UFO&gt;'6S:G6S:7ZD:3"$&lt;X*S:7.U;7^O)%:B9X2P=H-!'%!B%U2F&gt;'6D&gt;#"&amp;=86J&lt;'FC=GFV&lt;4]!&amp;5!+!!^1=G^C:3"*&lt;H2F=G.F=(1!%5!+!!N1=G^C:3"4&lt;'^Q:1!01!I!#%*B=W6M;7ZF!!!:1!I!%E2F&gt;'6D&gt;'FP&lt;C"-;7VJ&gt;#QA41!!'E"1!!A!!!!"!!9!"Q!)!!E!#A!,!UF421!"!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="R1NH4EqDetectSet" Type="Variable">
+	<Item Name="R1_Na_ISE" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="numTypedefs" Type="UInt">2</Property>
 		<Property Name="Path" Type="Str">/R1R2.lvproj/cRIO1-WinklerLab/R1/R1Variables.lvlib/R1ISEVariables.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typedefName1" Type="Str">ISE.ctl</Property>
+		<Property Name="typedefName2" Type="Str">Tri State Control.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../../Controls/ISE.ctl</Property>
+		<Property Name="typedefPath2" Type="PathRel">../../../Controls/Tri State Control.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$LZQ!!!"9!A!!!!!!'!!^!#A!*5G&amp;X)&amp;:B&lt;(6F!"6!#A!01W^S=G6D&gt;'6E)&amp;:B&lt;(6F!"&amp;!#A!+5WFH&lt;G&amp;M,#"N6A!!)U!+!"R&amp;=86J&lt;'FC=GFV&lt;3""=("S&lt;W&amp;D;#QA&lt;69P&lt;7FO!!!V!0%!!!!!!!!!!265=GEA5X2B&gt;'5A1W^O&gt;(*P&lt;#ZD&gt;'Q!&amp;U!'!!V4&gt;'6B:(EA5X2B&gt;'5`!#A!]1!!!!!!!!!""UF423ZD&gt;'Q!'%"1!!5!!!!"!!)!!Q!%!UF421!"!!5!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="R1NH4EqDetectTime" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
-		<Property Name="Network:UseBinding" Type="Str">False</Property>
-		<Property Name="Network:UseBuffering" Type="Str">False</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/R1R2.lvproj/cRIO1-WinklerLab/R1/R1Variables.lvlib/R1ISEVariables.lvlib/</Property>
-		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-	</Item>
-	<Item Name="R1NH4ISERaw" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
-		<Property Name="Network:UseBinding" Type="Str">False</Property>
-		<Property Name="Network:UseBuffering" Type="Str">False</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-	</Item>
-	<Item Name="R1NH4NaCF" Type="Variable">
+	<Item Name="R1_Na_Raw" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
@@ -85,20 +61,48 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="R1NH4NaConc" Type="Variable">
+	<Item Name="R1_Na_SetParams" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">1</Property>
+		<Property Name="Path" Type="Str">/R1R2.lvproj/cRIO1-WinklerLab/R1/R1Variables.lvlib/R1ISEVariables.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typedefName1" Type="Str">ISE_CF.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../../Controls/ISE_CF.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'8EQ%!!"9!A!!!!!!.!#&gt;!#A!A28&amp;V;7QA18"Q=G^B9WAA5W6U)("P;7ZU,#"N6C^N;7Y!!"N!#A!528&amp;V;7QA18"Q=G^B9WAA:(1M)(-!!"&gt;!#A!21W^S=G6D&gt;'FP&lt;C"'97.U&lt;X)!$%!Q`````Q.*&lt;WY!&amp;E!B%%.P=H*F9X1A2G^S)%FP&lt;D]!!#=!]1!!!!!!!!!"#EF426^$2CZD&gt;'Q!&amp;%"1!!-!!A!$!!1$36.&amp;!#R!1!!"`````Q!&amp;(UFO&gt;'6S:G6S:7ZD:3"$&lt;X*S:7.U;7^O)%:B9X2P=H-!'%!B%U2F&gt;'6D&gt;#"&amp;=86J&lt;'FC=GFV&lt;4]!&amp;5!+!!^1=G^C:3"*&lt;H2F=G.F=(1!%5!+!!N1=G^C:3"4&lt;'^Q:1!01!I!#%*B=W6M;7ZF!!!:1!I!%E2F&gt;'6D&gt;'FP&lt;C"-;7VJ&gt;#QA41!!'E"1!!A!!!!"!!9!"Q!)!!E!#A!,!UF421!"!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="R1_NH4_ISE" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">2</Property>
+		<Property Name="Path" Type="Str">/R1R2.lvproj/cRIO1-WinklerLab/R1/R1Variables.lvlib/R1ISEVariables.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typedefName1" Type="Str">ISE.ctl</Property>
+		<Property Name="typedefName2" Type="Str">Tri State Control.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../../Controls/ISE.ctl</Property>
+		<Property Name="typedefPath2" Type="PathRel">../../../Controls/Tri State Control.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$LZQ!!!"9!A!!!!!!'!!^!#A!*5G&amp;X)&amp;:B&lt;(6F!"6!#A!01W^S=G6D&gt;'6E)&amp;:B&lt;(6F!"&amp;!#A!+5WFH&lt;G&amp;M,#"N6A!!)U!+!"R&amp;=86J&lt;'FC=GFV&lt;3""=("S&lt;W&amp;D;#QA&lt;69P&lt;7FO!!!V!0%!!!!!!!!!!265=GEA5X2B&gt;'5A1W^O&gt;(*P&lt;#ZD&gt;'Q!&amp;U!'!!V4&gt;'6B:(EA5X2B&gt;'5`!#A!]1!!!!!!!!!""UF423ZD&gt;'Q!'%"1!!5!!!!"!!)!!Q!%!UF421!"!!5!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="R1_NH4_Raw" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/R1R2.lvproj/cRIO1-WinklerLab/R1/R1Variables.lvlib/R1ISEVariables.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="R1NH4NaOn" Type="Variable">
+	<Item Name="R1_NH4_SetParams" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="numTypedefs" Type="UInt">1</Property>
+		<Property Name="Path" Type="Str">/R1R2.lvproj/cRIO1-WinklerLab/R1/R1Variables.lvlib/R1ISEVariables.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+		<Property Name="typedefName1" Type="Str">ISE_CF.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../../Controls/ISE_CF.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'8EQ%!!"9!A!!!!!!.!#&gt;!#A!A28&amp;V;7QA18"Q=G^B9WAA5W6U)("P;7ZU,#"N6C^N;7Y!!"N!#A!528&amp;V;7QA18"Q=G^B9WAA:(1M)(-!!"&gt;!#A!21W^S=G6D&gt;'FP&lt;C"'97.U&lt;X)!$%!Q`````Q.*&lt;WY!&amp;E!B%%.P=H*F9X1A2G^S)%FP&lt;D]!!#=!]1!!!!!!!!!"#EF426^$2CZD&gt;'Q!&amp;%"1!!-!!A!$!!1$36.&amp;!#R!1!!"`````Q!&amp;(UFO&gt;'6S:G6S:7ZD:3"$&lt;X*S:7.U;7^O)%:B9X2P=H-!'%!B%U2F&gt;'6D&gt;#"&amp;=86J&lt;'FC=GFV&lt;4]!&amp;5!+!!^1=G^C:3"*&lt;H2F=G.F=(1!%5!+!!N1=G^C:3"4&lt;'^Q:1!01!I!#%*B=W6M;7ZF!!!:1!I!%E2F&gt;'6D&gt;'FP&lt;C"-;7VJ&gt;#QA41!!'E"1!!A!!!!"!!9!"Q!)!!E!#A!,!UF421!"!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 </Library>

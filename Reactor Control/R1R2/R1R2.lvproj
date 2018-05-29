@@ -19,6 +19,7 @@
 	<Property Name="varPersistentID:{15F28838-1110-47F0-AF03-F5243C755D61}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/R2StopReactor</Property>
 	<Property Name="varPersistentID:{168B092D-46F3-4DC8-93FE-45F8F5003763}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI5</Property>
 	<Property Name="varPersistentID:{180C554B-8FC4-4EA4-AC15-ECB20E2B9CCA}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod5/M5AI0</Property>
+	<Property Name="varPersistentID:{19A7C900-1381-4704-9AFE-678BACCCEBDF}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1No</Property>
 	<Property Name="varPersistentID:{1C3D9640-E96E-459B-A69C-F1CE671B6385}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI7</Property>
 	<Property Name="varPersistentID:{1DBDF1A9-1A62-4668-87F1-FFAFA6E17FC4}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/R2 SBR Timing Control</Property>
 	<Property Name="varPersistentID:{1FB38C57-708E-446F-8B60-7E36822ACA28}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod7/M7DO6</Property>
@@ -37,15 +38,15 @@
 	<Property Name="varPersistentID:{2F782067-839B-454A-9C8F-8CDD032D56C1}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Signals.lvlib/R1pH</Property>
 	<Property Name="varPersistentID:{30DACFF1-7CCD-41DD-BA85-5F3AB4C94140}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_pH_SetParams</Property>
 	<Property Name="varPersistentID:{317AB0CC-6430-4AC9-B337-0B87AE7651AF}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1DOIntercept</Property>
-	<Property Name="varPersistentID:{355B4EF2-FE9F-4A29-89BC-811391BBD4FC}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1KISESetParams</Property>
-	<Property Name="varPersistentID:{364A609F-6EFA-4249-AD6B-13069CCFA804}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1NaSetParams</Property>
 	<Property Name="varPersistentID:{3718983A-BA41-45F0-A557-33875FB416CC}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI15</Property>
+	<Property Name="varPersistentID:{38AA3631-4747-4500-80D2-A5865E91D044}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1_NH4_SetParams</Property>
 	<Property Name="varPersistentID:{393B5DC9-DA5F-4C7A-979F-5D5F01FD2B6D}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod4/M4DO6</Property>
 	<Property Name="varPersistentID:{3A1F380E-8114-4FE1-9391-F28C809F14FF}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod4/M4DO3</Property>
 	<Property Name="varPersistentID:{3CEBB56C-C259-47D2-8EDA-B7D1A53213C8}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod5/M5AI4</Property>
 	<Property Name="varPersistentID:{3FCE9A15-1A24-4894-BA22-85744C4CA389}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod1/M1AI1</Property>
 	<Property Name="varPersistentID:{40E06145-32DF-42F5-8FFA-F8D6FD9457F5}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Signals.lvlib/R1Air</Property>
 	<Property Name="varPersistentID:{41013D53-E87B-4867-84A0-36AEB1DD66D4}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Signals.lvlib/R1N2</Property>
+	<Property Name="varPersistentID:{427F2207-EC3A-411D-94A1-8A4E783AFDF3}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1_Na_SetParams</Property>
 	<Property Name="varPersistentID:{428B7AB6-10D0-4AE2-A50F-75CB06352CBC}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1AirSlope</Property>
 	<Property Name="varPersistentID:{42C2EC7D-5F5B-4982-B7E8-5046E3A36C7C}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod1/M1AI4</Property>
 	<Property Name="varPersistentID:{4657EE99-263B-40EB-89F9-8D139386871A}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_NH4_Manual</Property>
@@ -63,15 +64,14 @@
 	<Property Name="varPersistentID:{60A8CF61-D3E0-4D6A-8065-EFED3F225624}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod4/M4DO1</Property>
 	<Property Name="varPersistentID:{6212D6CE-B0CF-486F-A8E8-21EF346512A1}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI9</Property>
 	<Property Name="varPersistentID:{62C65DD2-8C14-4FBB-97EF-071B6CE1977A}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI4</Property>
-	<Property Name="varPersistentID:{65D67407-E2AF-4882-90D9-0AAAFAEB6AEC}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1NH4ISERaw</Property>
-	<Property Name="varPersistentID:{6752B0D4-512F-44D9-9DCC-A60BFF39098F}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1KISE</Property>
+	<Property Name="varPersistentID:{65D67407-E2AF-4882-90D9-0AAAFAEB6AEC}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1_K_ISE</Property>
 	<Property Name="varPersistentID:{6B1E3669-385D-48E0-8790-94FBC7962766}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/Calibration Variables/R2 DO Calibration</Property>
-	<Property Name="varPersistentID:{6B35BC2D-A834-47B2-92E9-DB6CD1A0CAFF}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1NH4ISE</Property>
 	<Property Name="varPersistentID:{6FF4DCD0-B515-4110-98DE-37ACFB9BE4F3}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/R2Mode</Property>
 	<Property Name="varPersistentID:{71A2C1BC-7E88-400C-8516-5391F15148B2}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod3/M3AO1</Property>
 	<Property Name="varPersistentID:{71C88988-6CBB-4277-BA24-8FF93432262D}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI29</Property>
 	<Property Name="varPersistentID:{73026911-DF32-44AA-976B-309DDDA9B8B0}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI23</Property>
 	<Property Name="varPersistentID:{74337C5A-6DD2-47A1-90F0-9FC3DC1B0BE4}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod7/DO0</Property>
+	<Property Name="varPersistentID:{764D9175-48A5-4BDE-B74F-FA3845021DC0}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1_NH4_Raw</Property>
 	<Property Name="varPersistentID:{7672B350-1C30-4A7B-AB24-2411FBC92D01}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod7/DO1</Property>
 	<Property Name="varPersistentID:{77B6E90B-4C41-4657-AA8D-C8EFE52A25A6}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod8/AO3</Property>
 	<Property Name="varPersistentID:{79708F68-5E4D-4DC4-AA4D-7157455E4957}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod1/M1AI6</Property>
@@ -82,7 +82,6 @@
 	<Property Name="varPersistentID:{825DBA36-0B89-4B7B-B649-07F6B20C3E7B}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Totalizers.lvlib/R1N2ValveTotalizer</Property>
 	<Property Name="varPersistentID:{8583A7B5-2696-452C-963D-BF2857491A57}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Status</Property>
 	<Property Name="varPersistentID:{866D7A79-CE57-4BDF-A667-B73C3A612A51}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1NH4Slope</Property>
-	<Property Name="varPersistentID:{8B932321-82B6-43BB-9006-7C29C824FCAF}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1KISERaw</Property>
 	<Property Name="varPersistentID:{8BE83BD3-0414-4E76-BE24-C1717B1AE6CF}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI27</Property>
 	<Property Name="varPersistentID:{8E7A59E9-DD7B-45F4-8FBB-8BB2F9517A3E}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod8/M8AO0</Property>
 	<Property Name="varPersistentID:{91C8AF91-CC76-43C6-BE45-64B419B39BC0}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI16</Property>
@@ -103,17 +102,19 @@
 	<Property Name="varPersistentID:{A73EC8C6-AE86-4712-91A4-B94804854202}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/Calibration Variables/R2pHCalB</Property>
 	<Property Name="varPersistentID:{ABFB7216-2A52-414E-9275-7D4AB1B6425F}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/R2Status</Property>
 	<Property Name="varPersistentID:{AC119D67-C619-43FF-ACDE-1DBEE6AD5687}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI21</Property>
+	<Property Name="varPersistentID:{AD9C0343-0304-4733-BCE8-005D590A4930}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1_K_SetParams</Property>
 	<Property Name="varPersistentID:{AF3B7319-1766-4AAC-81D0-B678E17CD536}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1OtherConstants.lvlib/R1DataPointsToAverage</Property>
 	<Property Name="varPersistentID:{AF76FAC5-19C4-48AD-B413-600EF29A85F1}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/R2 Pumps Manual Control</Property>
 	<Property Name="varPersistentID:{AFF21372-359E-485C-9B76-EA743789DD4B}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI20</Property>
 	<Property Name="varPersistentID:{B19E4998-2A13-448B-98B0-F8449DC34E81}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Totalizers.lvlib/R1BasePumpTotalizer</Property>
 	<Property Name="varPersistentID:{B2B953B2-558B-47AE-AC77-91617B3F0592}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod5/M5AI3</Property>
-	<Property Name="varPersistentID:{B597F592-B4E2-42AE-A136-E2285B942761}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1NH4SetParams</Property>
 	<Property Name="varPersistentID:{B8436CAA-7837-48FA-B848-5C8A13040F7F}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/R2AIDataBuffer</Property>
 	<Property Name="varPersistentID:{B8F1159C-3258-4472-90D7-63785BAF6DC5}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI31</Property>
+	<Property Name="varPersistentID:{B98D8751-6CC2-4AAC-A153-DD3587D65C99}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1_K_Raw</Property>
 	<Property Name="varPersistentID:{BA3274D0-3A29-4D08-B53D-884EC83606F0}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI14</Property>
 	<Property Name="varPersistentID:{BB6F79A7-1360-499C-8A7F-05F8AA1C7C05}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1pHIntercept</Property>
 	<Property Name="varPersistentID:{BC04A1B6-8B5E-42A0-A4E0-96F3E9AFB1FA}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod2/M2DO1</Property>
+	<Property Name="varPersistentID:{BC863669-0B4A-41EB-A36B-FAC1A6CEE52B}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1_Na_ISE</Property>
 	<Property Name="varPersistentID:{C189C362-0D44-41F6-B719-877775D3DBFD}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod5/M5AI1</Property>
 	<Property Name="varPersistentID:{C301DF1E-744D-41C4-8FC2-66F9E3D7796A}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/Calibration Variables/R2 pH Calibration</Property>
 	<Property Name="varPersistentID:{C3D012FC-BBFD-4117-9E8F-D12C3238246A}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Totalizers.lvlib/R1PhaseTimeElapsed</Property>
@@ -122,7 +123,6 @@
 	<Property Name="varPersistentID:{C6CADCD5-8E27-477C-820F-C7E8925D3A95}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod1/M1AI0</Property>
 	<Property Name="varPersistentID:{C7089D13-7EB3-40F7-80BD-30774F4352F1}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/Calibration Variables/R2pHCalM</Property>
 	<Property Name="varPersistentID:{C73C4B0F-3705-411F-8AC5-958E244468EC}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1NaSlope</Property>
-	<Property Name="varPersistentID:{C84FDEB3-03B9-49EC-A65F-97A957BE99F0}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1NaISE</Property>
 	<Property Name="varPersistentID:{C912E2C2-B45F-4CBE-9AAE-A38AF31F4878}" Type="Ref">/cRIO1-WinklerLab/R2/R2Variables.lvlib/R2 pH Control</Property>
 	<Property Name="varPersistentID:{CE836F78-BA62-4683-89E5-6C9AF1612DCE}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod8/AO2</Property>
 	<Property Name="varPersistentID:{CF6C12AD-359A-435F-AAC4-BA5B87453FA2}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI11</Property>
@@ -130,12 +130,13 @@
 	<Property Name="varPersistentID:{D21AFD5B-3028-47DE-A98A-6E657D5FB8EE}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI22</Property>
 	<Property Name="varPersistentID:{D3FB5749-D8C2-4CD3-8339-F8CE0DC37235}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod3/R6 N2 MFC</Property>
 	<Property Name="varPersistentID:{D446716B-7739-409C-B324-6F3EDE29ED7C}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1NaIntercept</Property>
-	<Property Name="varPersistentID:{DD6F4F68-0730-4302-970A-7461C33F535E}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1NaISERaw</Property>
+	<Property Name="varPersistentID:{DD6F4F68-0730-4302-970A-7461C33F535E}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1_Na_Raw</Property>
 	<Property Name="varPersistentID:{E4C60123-67F7-4E1C-BB33-40A3BD1E855E}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI30</Property>
 	<Property Name="varPersistentID:{E50FBCDD-E1E8-4CC5-A9D0-A448A3D07E7B}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1AIDataBuffer</Property>
 	<Property Name="varPersistentID:{E6508C28-321F-48F2-A40C-9FABB110D479}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod3/M3AO0</Property>
 	<Property Name="varPersistentID:{E680030A-D02B-4F15-B904-9E47BE4B395E}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Totalizers.lvlib/R1CycleTimeElapsed</Property>
 	<Property Name="varPersistentID:{E7726E6C-AE78-4681-8A78-AC8DF00A429E}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI0</Property>
+	<Property Name="varPersistentID:{E83DD2AC-07A4-40DF-9DB0-64774F32BAE0}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1_NH4_ISE</Property>
 	<Property Name="varPersistentID:{EC3D9D5B-801A-465D-ACFA-44524EED50DC}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod4/M4DO7</Property>
 	<Property Name="varPersistentID:{EFBE2897-AE05-4AAD-8360-E796F13CA139}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI12</Property>
 	<Property Name="varPersistentID:{F14FE96F-1009-4BA4-B911-DE3459D49100}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod8/AO1</Property>
@@ -279,9 +280,9 @@ DirectoryIndex index.htm
 			<Item Name="R1CleanUp.vi" Type="VI" URL="../R1/R1CleanUp.vi"/>
 			<Item Name="R1DataCollection.vi" Type="VI" URL="../R1/R1DataCollection.vi"/>
 			<Item Name="R1DOControl.vi" Type="VI" URL="../R1/R1DOControl.vi"/>
+			<Item Name="R1NaSignalProcess.vi" Type="VI" URL="../R1/R1NaSignalProcess.vi"/>
 			<Item Name="R1Initialize.vi" Type="VI" URL="../R1/R1Initialize.vi"/>
 			<Item Name="R1KSignalProcess.vi" Type="VI" URL="../R1/R1KSignalProcess.vi"/>
-			<Item Name="R1NaSignalProcess.vi" Type="VI" URL="../R1/R1NaSignalProcess.vi"/>
 			<Item Name="R1NH4SignalProcess.vi" Type="VI" URL="../R1/R1NH4SignalProcess.vi"/>
 			<Item Name="R1pHControl.vi" Type="VI" URL="../R1/R1pHControl.vi"/>
 			<Item Name="R1SBRControl.vi" Type="VI" URL="../R1/R1SBRControl.vi"/>
