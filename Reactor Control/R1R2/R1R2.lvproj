@@ -2123,6 +2123,7 @@ DirectoryIndex index.htm
 			</Item>
 		</Item>
 		<Item Name="test.vi" Type="VI" URL="../R1/test.vi"/>
+		<Item Name="Linear Convert.vi" Type="VI" URL="../Linear Convert.vi"/>
 		<Item Name="R1pHControl_Manual.vi" Type="VI" URL="../R1/R1pHControl_Manual.vi"/>
 		<Item Name="R1ORP.ctl" Type="VI" URL="../R1/R1Controls/R1ORP.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -2143,7 +2144,6 @@ DirectoryIndex index.htm
 				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 			</Item>
-			<Item Name="Linear Convert.vi" Type="VI" URL="../Linear Convert.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="nitaglv.dll" Type="Document" URL="nitaglv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
