@@ -1,6 +1,6 @@
 [cRIO4-WinklerLab]
-cRIO4-WinklerLab = "172.22.11.2"
+cRIO4-WinklerLab = "128.208.236.99"
 
 [My Computer]
-My Computer = "172.22.11.1"
+My Computer = "128.208.236.108"
 

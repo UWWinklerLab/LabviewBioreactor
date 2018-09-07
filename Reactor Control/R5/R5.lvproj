@@ -8,6 +8,7 @@
 	<Property Name="varPersistentID:{0CEB4437-93FD-4F0E-80DF-1019A3026A4E}" Type="Ref">/cRIO5-WinklerLab/Chassis/Mod3/M3AI3 R5 N2</Property>
 	<Property Name="varPersistentID:{13562099-90EC-4E62-A712-5054499DB10F}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5Signals.lvlib/R5DO</Property>
 	<Property Name="varPersistentID:{1A24600F-2A11-4861-B3A7-DB7DA8E546EF}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5Totalizers.lvlib/R5AcidPumpTotalizer</Property>
+	<Property Name="varPersistentID:{269B4498-600F-4373-B015-5D1D0BC42958}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5NH4Feed</Property>
 	<Property Name="varPersistentID:{2C72B28F-88E6-4AA3-82F3-E9BC26347F83}" Type="Ref">/cRIO5-WinklerLab/Chassis/Mod3/M3AI0 R5 pH</Property>
 	<Property Name="varPersistentID:{2CCC0870-9364-462F-94CA-C91993138EA1}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5DOSwitch</Property>
 	<Property Name="varPersistentID:{2D1D7622-4977-4AE4-BF60-93F3CCE8412A}" Type="Ref">/cRIO5-WinklerLab/Chassis/Mod1/M1DO5</Property>
@@ -35,7 +36,8 @@
 	<Property Name="varPersistentID:{978C24E6-819B-48C0-91B8-8C4A14DB1A12}" Type="Ref">/cRIO5-WinklerLab/Chassis/Mod3/M3AI5</Property>
 	<Property Name="varPersistentID:{9C4C38D6-F316-43B3-9D5C-BC314F3F4FF9}" Type="Ref">/cRIO5-WinklerLab/Chassis/Mod3/M3AI4</Property>
 	<Property Name="varPersistentID:{A4CCFB7A-7A25-46C8-A7D6-E76FDE7B970E}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5Signals.lvlib/R5Air</Property>
-	<Property Name="varPersistentID:{A53FB0B4-9B4F-4AE7-A81C-C8F181919641}" Type="Ref">/cRIO5-WinklerLab/Chassis/Mod1/M1DO4</Property>
+	<Property Name="varPersistentID:{A53FB0B4-9B4F-4AE7-A81C-C8F181919641}" Type="Ref">/cRIO5-WinklerLab/Chassis/Mod1/M1DO4 R5 NH4</Property>
+	<Property Name="varPersistentID:{AF256DCC-53D5-44DC-A23B-BA304EB414FD}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5NH4_FeedParams</Property>
 	<Property Name="varPersistentID:{B1F04150-0F2D-4B5A-9AEB-91E0B18C7A80}" Type="Ref">/cRIO5-WinklerLab/Chassis/Mod3/M3AI6</Property>
 	<Property Name="varPersistentID:{C13A4144-A4F8-4C12-AB87-E75300549395}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5Signals.lvlib/R5N2</Property>
 	<Property Name="varPersistentID:{C51DA2E2-59C3-4DD4-AFD7-58DC27F88062}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5Totalizers.lvlib/R5AirValveTotalizer</Property>
@@ -151,6 +153,7 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="R5" Type="Folder">
 				<Item Name="R5Controls" Type="Folder">
+					<Item Name="R5 NH4_FeedParams.ctl" Type="VI" URL="../Controls/R5 NH4_FeedParams.ctl"/>
 					<Item Name="R5DO_Status.ctl" Type="VI" URL="../R5/R5Controls/R5DO_Status.ctl"/>
 					<Item Name="R5Loops.ctl" Type="VI" URL="../R5/R5Controls/R5Loops.ctl"/>
 					<Item Name="R5pH_Status.ctl" Type="VI" URL="../R5/R5Controls/R5pH_Status.ctl"/>
@@ -251,7 +254,7 @@ AddOutputFilter chunkFilter
 					<Property Name="type" Type="Str">Industrial</Property>
 					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
 				</Item>
-				<Item Name="M1DO4" Type="Variable">
+				<Item Name="M1DO4 R5 NH4" Type="Variable">
 					<Property Name="featurePacks" Type="Str">Industrial</Property>
 					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
 					<Property Name="Industrial:ChannelIndex" Type="Str">4</Property>
@@ -513,6 +516,7 @@ AddOutputFilter chunkFilter
 			</Item>
 		</Item>
 		<Item Name="Data_Aquisition_cRIO5.vi" Type="VI" URL="../Data_Aquisition_cRIO5.vi"/>
+		<Item Name="Data_Aquisition_cRIO5_slim.vi" Type="VI" URL="../Data_Aquisition_cRIO5_slim.vi"/>
 		<Item Name="R5" Type="Web Service">
 			<Property Name="ws.autoIncrementVersion" Type="Bool">true</Property>
 			<Property Name="ws.disconnectInline" Type="Bool">true</Property>
@@ -568,7 +572,7 @@ AddOutputFilter chunkFilter
 				</Item>
 			</Item>
 		</Item>
-		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
+		<Item Name="Test.vi" Type="VI" URL="../Controls/Test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
