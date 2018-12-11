@@ -18,6 +18,7 @@
 	<Property Name="varPersistentID:{511602A8-6EF8-4837-9D40-0AE56A902D2E}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5pHSlope</Property>
 	<Property Name="varPersistentID:{554EE525-1FE0-4059-9A38-92B53C776F5B}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5DOIntercept</Property>
 	<Property Name="varPersistentID:{5BF71C19-9B9A-4D64-B144-8FB109F0F946}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5pHSetParams</Property>
+	<Property Name="varPersistentID:{5D827E28-6D9E-471A-94B5-97056DF32CA5}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5Totalizers.lvlib/R5NH4Totalizer</Property>
 	<Property Name="varPersistentID:{64FA3FB9-3470-4D25-8C05-F3F533DEF8C5}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5AIDataBuffer</Property>
 	<Property Name="varPersistentID:{678BA542-F9A6-45C3-AC20-528E244E82E5}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5Status</Property>
 	<Property Name="varPersistentID:{695F4F08-675F-482C-8CCD-9DC7E0F72152}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5pHSwitch</Property>
@@ -53,6 +54,7 @@
 	<Property Name="varPersistentID:{E4FFC527-6BA2-4D72-91B2-CA7456600B67}" Type="Ref">/cRIO5-WinklerLab/Chassis/Mod3/M3AI2 R5 air</Property>
 	<Property Name="varPersistentID:{E9B8095B-67EC-45C1-ABB9-184D4E020392}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5CalibrationConstants.lvlib/R5pHIntercept</Property>
 	<Property Name="varPersistentID:{EDBFCA09-A7D5-4A29-B6C0-FB62B6FB5A05}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5Controls.lvlib/R5SBRSwitch</Property>
+	<Property Name="varPersistentID:{F8924F49-1C1C-443B-917C-E95DDCB2327D}" Type="Ref">/cRIO5-WinklerLab/Item[@Label='R5' and @Type='Folder']/R5/R5Controls/R5Variables.lvlib/R5Totalizers.lvlib/R5HCO3Totalizer</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -518,6 +520,8 @@ AddOutputFilter chunkFilter
 		<Item Name="Data_Aquisition_cRIO5.vi" Type="VI" URL="../Data_Aquisition_cRIO5.vi"/>
 		<Item Name="Data_Aquisition_cRIO5_slim.vi" Type="VI" URL="../Data_Aquisition_cRIO5_slim.vi"/>
 		<Item Name="R5" Type="Web Service">
+			<Property Name="Bld_buildSpecName" Type="Str"></Property>
+			<Property Name="Bld_version.build" Type="Int">1</Property>
 			<Property Name="ws.autoIncrementVersion" Type="Bool">true</Property>
 			<Property Name="ws.disconnectInline" Type="Bool">true</Property>
 			<Property Name="ws.disconnectTypeDefs" Type="Bool">false</Property>
@@ -528,7 +532,8 @@ AddOutputFilter chunkFilter
 			<Property Name="ws.removePolyVIs" Type="Bool">true</Property>
 			<Property Name="ws.serveDefaultDoc" Type="Bool">true</Property>
 			<Property Name="ws.SSE2" Type="Bool">true</Property>
-			<Property Name="ws.version.build" Type="Int">0</Property>
+			<Property Name="ws.static_permissions" Type="Str"></Property>
+			<Property Name="ws.version.build" Type="Int">1</Property>
 			<Property Name="ws.version.fix" Type="Int">0</Property>
 			<Property Name="ws.version.major" Type="Int">1</Property>
 			<Property Name="ws.version.minor" Type="Int">0</Property>
@@ -539,36 +544,124 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="Web Resources" Type="HTTP WebResources Container">
 				<Item Name="R5DOControl_Status.vi" Type="VI" URL="../R5/R5DOControl_Status.vi">
+					<Property Name="ws.buffered" Type="Bool">true</Property>
+					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
+					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
+					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
 					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.outputFormat" Type="Int">2</Property>
+					<Property Name="ws.outputType" Type="Int">0</Property>
+					<Property Name="ws.permissions" Type="Str"></Property>
+					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
+					<Property Name="ws.uri" Type="Str"></Property>
+					<Property Name="ws.useHeaders" Type="Bool">true</Property>
+					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 				<Item Name="R5GetOtherConstants.vi" Type="VI" URL="../R5/R5GetOtherConstants.vi">
+					<Property Name="ws.buffered" Type="Bool">true</Property>
+					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
+					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
+					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
 					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.outputFormat" Type="Int">2</Property>
+					<Property Name="ws.outputType" Type="Int">0</Property>
+					<Property Name="ws.permissions" Type="Str"></Property>
+					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
+					<Property Name="ws.uri" Type="Str"></Property>
+					<Property Name="ws.useHeaders" Type="Bool">true</Property>
+					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 				<Item Name="R5GetLoops.vi" Type="VI" URL="../R5/R5GetLoops.vi">
+					<Property Name="ws.buffered" Type="Bool">true</Property>
+					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
+					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
+					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
 					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.outputFormat" Type="Int">2</Property>
+					<Property Name="ws.outputType" Type="Int">0</Property>
+					<Property Name="ws.permissions" Type="Str"></Property>
+					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
+					<Property Name="ws.uri" Type="Str"></Property>
+					<Property Name="ws.useHeaders" Type="Bool">true</Property>
+					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 				<Item Name="R5GetSignals.vi" Type="VI" URL="../R5/R5GetSignals.vi">
+					<Property Name="ws.buffered" Type="Bool">true</Property>
+					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
+					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
+					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
 					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.outputFormat" Type="Int">2</Property>
+					<Property Name="ws.outputType" Type="Int">0</Property>
+					<Property Name="ws.permissions" Type="Str"></Property>
+					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
+					<Property Name="ws.uri" Type="Str"></Property>
+					<Property Name="ws.useHeaders" Type="Bool">true</Property>
+					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 				<Item Name="R5pHControl_Status.vi" Type="VI" URL="../R5/R5pHControl_Status.vi">
+					<Property Name="ws.buffered" Type="Bool">true</Property>
+					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
+					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
+					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
 					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.outputFormat" Type="Int">2</Property>
+					<Property Name="ws.outputType" Type="Int">0</Property>
+					<Property Name="ws.permissions" Type="Str"></Property>
+					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
+					<Property Name="ws.uri" Type="Str"></Property>
+					<Property Name="ws.useHeaders" Type="Bool">true</Property>
+					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 				<Item Name="R5SBRControl_Status.vi" Type="VI" URL="../R5/R5SBRControl_Status.vi">
+					<Property Name="ws.buffered" Type="Bool">true</Property>
+					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
+					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
+					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
 					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.outputFormat" Type="Int">2</Property>
+					<Property Name="ws.outputType" Type="Int">0</Property>
+					<Property Name="ws.permissions" Type="Str"></Property>
+					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
+					<Property Name="ws.uri" Type="Str"></Property>
+					<Property Name="ws.useHeaders" Type="Bool">true</Property>
+					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 				<Item Name="R5SetCalibrateConstant.vi" Type="VI" URL="../R5/R5SetCalibrateConstant.vi">
+					<Property Name="ws.buffered" Type="Bool">true</Property>
+					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
+					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
+					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
 					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.outputFormat" Type="Int">2</Property>
+					<Property Name="ws.outputType" Type="Int">0</Property>
+					<Property Name="ws.permissions" Type="Str"></Property>
+					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
+					<Property Name="ws.uri" Type="Str"></Property>
+					<Property Name="ws.useHeaders" Type="Bool">true</Property>
+					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 				<Item Name="R5SetOtherConstants.vi" Type="VI" URL="../R5/R5SetOtherConstants.vi">
+					<Property Name="ws.buffered" Type="Bool">true</Property>
+					<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
+					<Property Name="ws.keepInMemory" Type="Bool">true</Property>
+					<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
 					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.outputFormat" Type="Int">2</Property>
+					<Property Name="ws.outputType" Type="Int">0</Property>
+					<Property Name="ws.permissions" Type="Str"></Property>
+					<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
 					<Property Name="ws.type" Type="Int">1</Property>
+					<Property Name="ws.uri" Type="Str"></Property>
+					<Property Name="ws.useHeaders" Type="Bool">true</Property>
+					<Property Name="ws.useStandardURL" Type="Bool">true</Property>
 				</Item>
 			</Item>
 		</Item>
