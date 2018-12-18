@@ -30,31 +30,13 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"55!!!!"9!A!!!!!!$!!V!#A!'5WFH&lt;G&amp;M!!!,1!I!"6:B&lt;(6F!"B!5!!#!!!!!1R"&lt;G&amp;M&lt;W=A37ZQ&gt;81!!!%!!A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="R1Na" Type="Variable">
+	<Item Name="R1NH4Pump" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
-		<Property Name="numTypedefs" Type="UInt">2</Property>
-		<Property Name="Path" Type="Str">/R1R2.lvproj/cRIO1-WinklerLab/R1/R1Variables.lvlib/R1Signals.lvlib/</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typedefName1" Type="Str">ISE.ctl</Property>
-		<Property Name="typedefName2" Type="Str">Tri State Control.ctl</Property>
-		<Property Name="typedefPath1" Type="PathRel">../../../Controls/ISE.ctl</Property>
-		<Property Name="typedefPath2" Type="PathRel">../../../Controls/Tri State Control.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$LZQ!!!"9!A!!!!!!'!!^!#A!*5G&amp;X)&amp;:B&lt;(6F!"6!#A!01W^S=G6D&gt;'6E)&amp;:B&lt;(6F!"&amp;!#A!+5WFH&lt;G&amp;M,#"N6A!!)U!+!"R&amp;=86J&lt;'FC=GFV&lt;3""=("S&lt;W&amp;D;#QA&lt;69P&lt;7FO!!!V!0%!!!!!!!!!!265=GEA5X2B&gt;'5A1W^O&gt;(*P&lt;#ZD&gt;'Q!&amp;U!'!!V4&gt;'6B:(EA5X2B&gt;'5`!#A!]1!!!!!!!!!""UF423ZD&gt;'Q!'%"1!!5!!!!"!!)!!Q!%!UF421!"!!5!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-	</Item>
-	<Item Name="R1NH4" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
-		<Property Name="Network:UseBinding" Type="Str">False</Property>
-		<Property Name="Network:UseBuffering" Type="Str">False</Property>
-		<Property Name="numTypedefs" Type="UInt">2</Property>
-		<Property Name="Path" Type="Str">/R1R2.lvproj/cRIO1-WinklerLab/R1/R1Variables.lvlib/R1Signals.lvlib/</Property>
-		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typedefName1" Type="Str">ISE.ctl</Property>
-		<Property Name="typedefName2" Type="Str">Tri State Control.ctl</Property>
-		<Property Name="typedefPath1" Type="PathRel">../../../Controls/ISE.ctl</Property>
-		<Property Name="typedefPath2" Type="PathRel">../../../Controls/Tri State Control.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$LZQ!!!"9!A!!!!!!'!!^!#A!*5G&amp;X)&amp;:B&lt;(6F!"6!#A!01W^S=G6D&gt;'6E)&amp;:B&lt;(6F!"&amp;!#A!+5WFH&lt;G&amp;M,#"N6A!!)U!+!"R&amp;=86J&lt;'FC=GFV&lt;3""=("S&lt;W&amp;D;#QA&lt;69P&lt;7FO!!!V!0%!!!!!!!!!!265=GEA5X2B&gt;'5A1W^O&gt;(*P&lt;#ZD&gt;'Q!&amp;U!'!!V4&gt;'6B:(EA5X2B&gt;'5`!#A!]1!!!!!!!!!""UF423ZD&gt;'Q!'%"1!!5!!!!"!!)!!Q!%!UF421!"!!5!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"E9!!!!"9!A!!!!!!$!"&amp;!#A!+5WFH&lt;G&amp;M,#"N11!!&amp;U!+!"&amp;797RV:3QA65Z*6&amp;-A3%6321!91&amp;!!!A!!!!%-17ZB&lt;'^H)%FO=(6U!!!"!!)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="R1ORP" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>

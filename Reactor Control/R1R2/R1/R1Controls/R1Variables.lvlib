@@ -11,7 +11,7 @@
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="Real-Time Features:ApplyNetworkConfig" Type="Str">False</Property>
-		<Property Name="Real-Time Features:ArrayLength" Type="Str">8</Property>
+		<Property Name="Real-Time Features:ArrayLength" Type="Str">9</Property>
 		<Property Name="Real-Time Features:BufferLength" Type="Str">4</Property>
 		<Property Name="Real-Time Features:DatapointsInWaveform" Type="Str">1</Property>
 		<Property Name="Real-Time Features:UseBuffering" Type="Str">True</Property>
@@ -21,14 +21,6 @@
 	<Item Name="R1CalibrationConstants.lvlib" Type="Library" URL="../R1CalibrationConstants.lvlib"/>
 	<Item Name="R1Controls.lvlib" Type="Library" URL="../R1Controls.lvlib"/>
 	<Item Name="R1ISEVariables.lvlib" Type="Library" URL="../R1ISEVariables.lvlib"/>
-	<Item Name="R1No" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
-		<Property Name="Network:UseBinding" Type="Str">False</Property>
-		<Property Name="Network:UseBuffering" Type="Str">False</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!N!!A!&amp;37ZU-49!!1!!!!!!!!!!!!!!!!</Property>
-	</Item>
 	<Item Name="R1OtherConstants.lvlib" Type="Library" URL="../R1OtherConstants.lvlib"/>
 	<Item Name="R1Signals.lvlib" Type="Library" URL="../R1Signals.lvlib"/>
 	<Item Name="R1Status" Type="Variable">
