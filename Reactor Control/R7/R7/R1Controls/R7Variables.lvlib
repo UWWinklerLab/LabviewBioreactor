@@ -4,7 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="R1AIDataBuffer" Type="Variable">
+	<Item Name="R7AIDataBuffer" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network,Real-Time Features</Property>
 		<Property Name="Network:SingleWriter" Type="Str">False</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
@@ -18,12 +18,11 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!""01!!!"9!A!!!!!!#!!V!#A!(4H6N:8*J9Q!=1%!!!@````]!!!^"=H*B?3"P:C"%&lt;X6C&lt;'5!!1!"!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="R1CalibrationConstants.lvlib" Type="Library" URL="../R1CalibrationConstants.lvlib"/>
-	<Item Name="R1Controls.lvlib" Type="Library" URL="../R1Controls.lvlib"/>
-	<Item Name="R1ISEVariables.lvlib" Type="Library" URL="../R1ISEVariables.lvlib"/>
-	<Item Name="R1OtherConstants.lvlib" Type="Library" URL="../R1OtherConstants.lvlib"/>
-	<Item Name="R1Signals.lvlib" Type="Library" URL="../R1Signals.lvlib"/>
-	<Item Name="R1Status" Type="Variable">
+	<Item Name="R7CalibrationConstants.lvlib" Type="Library" URL="../R7CalibrationConstants.lvlib"/>
+	<Item Name="R7Controls.lvlib" Type="Library" URL="../R7Controls.lvlib"/>
+	<Item Name="R7OtherConstants.lvlib" Type="Library" URL="../R7OtherConstants.lvlib"/>
+	<Item Name="R7Signals.lvlib" Type="Library" URL="../R7Signals.lvlib"/>
+	<Item Name="R7Status" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">True</Property>
 		<Property Name="Network:BuffSize" Type="Str">1</Property>
@@ -39,7 +38,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="R1Timestamp" Type="Variable">
+	<Item Name="R7Timestamp" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
 		<Property Name="Network:BuffSize" Type="Str">1</Property>
@@ -55,5 +54,5 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="R1Totalizers.lvlib" Type="Library" URL="../R1Totalizers.lvlib"/>
+	<Item Name="R7Totalizers.lvlib" Type="Library" URL="../R7Totalizers.lvlib"/>
 </Library>
