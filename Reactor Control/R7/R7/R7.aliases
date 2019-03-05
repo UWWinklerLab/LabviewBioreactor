@@ -1,0 +1,9 @@
+[cRIO1-WinklerLab]
+cRIO1-WinklerLab = "172.28.236.61"
+
+[cRIO7-WinklerLab]
+cRIO7-WinklerLab = "172.28.236.71"
+
+[My Computer]
+My Computer = "128.208.236.226"
+
