@@ -44,7 +44,7 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="Path" Type="Str">/R1R2.lvproj/cRIO1-WinklerLab/R1/R1Variables.lvlib/R1Controls.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#2D1!!!"9!A!!!!!!'!""!)1J.:72J93"1&gt;7VQ!!!11#%+6W&amp;U:8)A5(6N=!!!%E!B$56G:GRV:7ZU)&amp;"V&lt;8!!%E!B$6*F&lt;'6B=W5A6G&amp;M&gt;G5!$E!B#%&gt;B=S"1&gt;7VQ!!!G1&amp;!!"1!!!!%!!A!$!!165U*38UVB&lt;H6B&lt;#!I5X2B&lt;G2B=G1J!!%!"1!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#EI!!!!"9!A!!!!!!(!""!)1J.:72J93"1&gt;7VQ!!!11#%+6W&amp;U:8)A5(6N=!!!%E!B$56G:GRV:7ZU)&amp;"V&lt;8!!%E!B$6*F&lt;'6B=W5A6G&amp;M&gt;G5!$E!B#%YS)&amp;:B&lt;(:F!!!11#%,5G6D;8*D)&amp;"V&lt;8!!+%"1!!9!!!!"!!)!!Q!%!!565U*38UVB&lt;H6B&lt;#!I5X2B&lt;G2B=G1J!!%!"A!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="R7_SBR_SetParams" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
