@@ -55,7 +55,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typedefName1" Type="Str">R7SBR_SetParams.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../../../Controls/R7SBR_SetParams.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$^_1!!!"9!A!!!!!!+!!Z!-0````]&amp;5'BB=W5!$U!+!!F5;7VF,#"N;7Y!%%!B#EVF:'FB)&amp;"V&lt;8!!!""!)1J8982F=C"1&gt;7VQ!!!31#%.27:G&lt;(6F&lt;H1A5(6N=!!31#%.5G6M:7&amp;T:3"797RW:1!/1#%)2W&amp;T)&amp;"V&lt;8!!!"R!5!!&amp;!!)!!Q!%!!5!"AJ41F*@47&amp;O&gt;7&amp;M!!!?1&amp;!!!Q!!!!%!"R&amp;1;'&amp;T:3"5;7VJ&lt;G=A5'&amp;J=A!]!0%!!!!!!!!!!2.3.V.#5F^4:82198*B&lt;8-O9X2M!#"!1!!"`````Q!)$V)R5U*38V.F&gt;&amp;"B=G&amp;N=Q!"!!E!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%:&amp;1%!!"9!A!!!!!!,!!Z!-0````]&amp;5'BB=W5!$U!+!!F5;7VF,#"N;7Y!%%!B#EVF:'FB)&amp;"V&lt;8!!!""!)1J8982F=C"1&gt;7VQ!!!31#%.27:G&lt;(6F&lt;H1A5(6N=!!31#%.5G6M:7&amp;T:3"797RW:1!/1#%)4D)A6G&amp;M&gt;G5!!""!)1N3:7.J=G-A5(6N=!!I1&amp;!!"A!#!!-!"!!&amp;!!9!"R641F*@47&amp;O&gt;7&amp;M)#B4&gt;'&amp;O:'&amp;S:#E!(E"1!!-!!!!"!!A25'BB=W5A6'FN;7ZH)&amp;"B;8)!0!$R!!!!!!!!!!%45D&gt;41F*@5W6U5'&amp;S97VT,G.U&lt;!!A1%!!!@````]!#1^3-6.#5F^4:82198*B&lt;8-!!1!+!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="R7_SBR_Switch" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
