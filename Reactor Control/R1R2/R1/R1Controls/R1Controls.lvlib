@@ -60,6 +60,26 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="R1_NO_SetParams" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/R1.lvproj/cRIO1-WinklerLab/R1/R1Variables.lvlib/R1Controls.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typedefName1" Type="Str">pH_SetParams Standard.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../../Controls/pH_SetParams Standard.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$'QA!!!"9!A!!!!!!&amp;!"^!#A!94GFU=GFU:3"4:81A5'^J&lt;H1M)'VH4C^-!!!&lt;1!I!&amp;5.I:7.L)%6W:8*Z)&amp;AA=W6D&lt;WZE=Q!&gt;1!I!&amp;E20)&amp;.F&gt;#"1&lt;WFO&gt;#"-&lt;X=M)'VH,UQ!!"V!#A!82%]A5W6U)&amp;"P;7ZU)%BJ:WAM)'VH,UQ!(E"1!!1!!!!"!!)!!QZ3-5Z0-F.F&gt;&amp;"B=G&amp;N=Q!!!1!%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="R1_NO_Switch" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/R1.lvproj/cRIO1-WinklerLab/R1/R1Variables.lvlib/R1Controls.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
 	<Item Name="R1_pH_Manual" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>

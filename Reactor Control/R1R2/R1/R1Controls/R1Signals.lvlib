@@ -38,6 +38,14 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"E9!!!!"9!A!!!!!!$!"&amp;!#A!+5WFH&lt;G&amp;M,#"N11!!&amp;U!+!"&amp;797RV:3QA65Z*6&amp;-A3%6321!91&amp;!!!A!!!!%-17ZB&lt;'^H)%FO=(6U!!!"!!)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="R1NO" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"E9!!!!"9!A!!!!!!$!"&amp;!#A!+5WFH&lt;G&amp;M,#"N11!!&amp;U!+!"&amp;797RV:3QA65Z*6&amp;-A3%6321!91&amp;!!!A!!!!%-17ZB&lt;'^H)%FO=(6U!!!"!!)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
 	<Item Name="R1ORP" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>

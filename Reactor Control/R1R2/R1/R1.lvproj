@@ -21,6 +21,7 @@
 	<Property Name="varPersistentID:{299257D8-595D-4154-A769-46FE6D0E12A4}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_SBR_Manual</Property>
 	<Property Name="varPersistentID:{2A52A4B9-BBBA-4CE2-AD84-3E35D0400EF8}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod3/R6 Air MFC</Property>
 	<Property Name="varPersistentID:{2B498C1C-16BE-4E44-9A6B-A1DB13EBAC73}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI18</Property>
+	<Property Name="varPersistentID:{2D9FBBA7-4683-47CA-8F5E-69B2C707D499}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_NO_Switch</Property>
 	<Property Name="varPersistentID:{2F782067-839B-454A-9C8F-8CDD032D56C1}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Signals.lvlib/R1pH</Property>
 	<Property Name="varPersistentID:{30DACFF1-7CCD-41DD-BA85-5F3AB4C94140}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_pH_SetParams</Property>
 	<Property Name="varPersistentID:{317AB0CC-6430-4AC9-B337-0B87AE7651AF}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1DOIntercept</Property>
@@ -43,7 +44,7 @@
 	<Property Name="varPersistentID:{5AA62F21-0800-4605-A1AF-95E3EB0FE139}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1DOSlope</Property>
 	<Property Name="varPersistentID:{5BAAD313-8922-4326-A9F4-3DB0910B5722}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_DO_Manual</Property>
 	<Property Name="varPersistentID:{5CD90E6B-5469-4374-9576-F6C05A2A2FCD}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI13</Property>
-	<Property Name="varPersistentID:{5FE3A946-8AAB-4787-AED2-7D66F24E9398}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/NH4PumpSlope</Property>
+	<Property Name="varPersistentID:{5FE3A946-8AAB-4787-AED2-7D66F24E9398}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1NH4PumpSlope</Property>
 	<Property Name="varPersistentID:{6212D6CE-B0CF-486F-A8E8-21EF346512A1}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI9</Property>
 	<Property Name="varPersistentID:{62C65DD2-8C14-4FBB-97EF-071B6CE1977A}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI4</Property>
 	<Property Name="varPersistentID:{65D67407-E2AF-4882-90D9-0AAAFAEB6AEC}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1_K_ISE</Property>
@@ -60,6 +61,7 @@
 	<Property Name="varPersistentID:{8BE83BD3-0414-4E76-BE24-C1717B1AE6CF}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI27</Property>
 	<Property Name="varPersistentID:{8E7A59E9-DD7B-45F4-8FBB-8BB2F9517A3E}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod8/M8AO0</Property>
 	<Property Name="varPersistentID:{91C8AF91-CC76-43C6-BE45-64B419B39BC0}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI16</Property>
+	<Property Name="varPersistentID:{93947011-F200-4EAB-B76C-1C00A2CA162F}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1NOSlope</Property>
 	<Property Name="varPersistentID:{945CB254-72C2-4264-8EEC-4D6C0B400880}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Signals.lvlib/R1ORP</Property>
 	<Property Name="varPersistentID:{9582A3F7-6D21-490B-AE61-00C793683509}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod2/M2DO6</Property>
 	<Property Name="varPersistentID:{97D5A3CB-2345-4E99-91DC-82B7AAD824B2}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI26</Property>
@@ -71,7 +73,7 @@
 	<Property Name="varPersistentID:{9F013C0A-D0A4-4E4E-A777-460B5FB029D9}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_SBR_SetParams</Property>
 	<Property Name="varPersistentID:{A005E554-86AB-4D94-8E72-B7FD4E5A422E}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Totalizers.lvlib/R1AirValveTotalizer</Property>
 	<Property Name="varPersistentID:{A14585F5-A2F3-49DF-BF1A-5DA3A29F71BF}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Totalizers.lvlib/R1NH4PumpTotalizer</Property>
-	<Property Name="varPersistentID:{A2CA1DC1-96CB-48E4-B0A0-AF4D04843CB4}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/NH4PumpIntercept</Property>
+	<Property Name="varPersistentID:{A2CA1DC1-96CB-48E4-B0A0-AF4D04843CB4}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1NH4PumpIntercept</Property>
 	<Property Name="varPersistentID:{AC119D67-C619-43FF-ACDE-1DBEE6AD5687}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI21</Property>
 	<Property Name="varPersistentID:{AD9C0343-0304-4733-BCE8-005D590A4930}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1_K_SetParams</Property>
 	<Property Name="varPersistentID:{AF3B7319-1766-4AAC-81D0-B678E17CD536}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1OtherConstants.lvlib/R1DataPointsToAverage</Property>
@@ -84,6 +86,8 @@
 	<Property Name="varPersistentID:{BB6F79A7-1360-499C-8A7F-05F8AA1C7C05}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1pHIntercept</Property>
 	<Property Name="varPersistentID:{BC04A1B6-8B5E-42A0-A4E0-96F3E9AFB1FA}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod2/M2DO1</Property>
 	<Property Name="varPersistentID:{BC863669-0B4A-41EB-A36B-FAC1A6CEE52B}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1_Na_ISE</Property>
+	<Property Name="varPersistentID:{BCE0F36B-AD78-4EDB-A413-F6C42252AC1B}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Signals.lvlib/R1NO</Property>
+	<Property Name="varPersistentID:{C1C20952-93EE-418D-937A-AC0E9CE40F69}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1NOIntercept</Property>
 	<Property Name="varPersistentID:{C3D012FC-BBFD-4117-9E8F-D12C3238246A}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Totalizers.lvlib/R1PhaseTimeElapsed</Property>
 	<Property Name="varPersistentID:{C45E74B0-C23C-4B16-8DEC-E9928BCF1FF2}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_DO_Switch</Property>
 	<Property Name="varPersistentID:{C6CADCD5-8E27-477C-820F-C7E8925D3A95}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod1/M1AI0</Property>
@@ -101,6 +105,7 @@
 	<Property Name="varPersistentID:{E83DD2AC-07A4-40DF-9DB0-64774F32BAE0}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1ISEVariables.lvlib/R1_NH4_ISE</Property>
 	<Property Name="varPersistentID:{EFBE2897-AE05-4AAD-8360-E796F13CA139}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI12</Property>
 	<Property Name="varPersistentID:{F14FE96F-1009-4BA4-B911-DE3459D49100}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod8/AO1</Property>
+	<Property Name="varPersistentID:{F3F310FE-1DAE-4BC1-9355-202594378563}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1Controls.lvlib/R1_NO_SetParams</Property>
 	<Property Name="varPersistentID:{F4E8C718-833A-41FB-B69D-75398BDE3D89}" Type="Ref">/cRIO1-WinklerLab/Chassis/Mod6/AI17</Property>
 	<Property Name="varPersistentID:{F51907E7-C376-44B0-AEB9-CD1F8CDF978D}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1ORPIntercept</Property>
 	<Property Name="varPersistentID:{F72CD252-6867-4232-A252-A9F07E1E7C2A}" Type="Ref">/cRIO1-WinklerLab/Item[@Label='R1' and @Type='Folder']/R1Variables.lvlib/R1CalibrationConstants.lvlib/R1pHSlope</Property>
@@ -221,6 +226,7 @@ DirectoryIndex index.htm
 			<Item Name="Tri State Control.ctl" Type="VI" URL="../../Controls/Tri State Control.ctl"/>
 			<Item Name="VFD.ctl" Type="VI" URL="../../Controls/VFD.ctl"/>
 			<Item Name="R1ISE_Combined.ctl" Type="VI" URL="../R1Controls/R1ISE_Combined.ctl"/>
+			<Item Name="R1NO2_SetParams.ctl" Type="VI" URL="../R1Controls/R1NO2_SetParams.ctl"/>
 		</Item>
 		<Item Name="R1" Type="Folder">
 			<Item Name="R1Controls" Type="Folder">
@@ -242,6 +248,7 @@ DirectoryIndex index.htm
 			<Item Name="R1NaSignalProcess.vi" Type="VI" URL="../R1NaSignalProcess.vi"/>
 			<Item Name="R1Initialize.vi" Type="VI" URL="../R1Initialize.vi"/>
 			<Item Name="R1KSignalProcess.vi" Type="VI" URL="../R1KSignalProcess.vi"/>
+			<Item Name="R1NOControl.vi" Type="VI" URL="../R1NOControl.vi"/>
 			<Item Name="R1NH4SignalProcess.vi" Type="VI" URL="../R1NH4SignalProcess.vi"/>
 			<Item Name="R1NH4Control.vi" Type="VI" URL="../R1NH4Control.vi"/>
 			<Item Name="R1pHControl.vi" Type="VI" URL="../R1pHControl.vi"/>
@@ -567,87 +574,6 @@ DirectoryIndex index.htm
 					<Property Name="numTypedefs" Type="UInt">0</Property>
 					<Property Name="type" Type="Str">Industrial</Property>
 					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
-				</Item>
-			</Item>
-			<Item Name="Mod3" Type="RIO C Series Module">
-				<Property Name="crio.Calibration" Type="Str">1</Property>
-				<Property Name="crio.Location" Type="Str">Slot 3</Property>
-				<Property Name="crio.RequiresValidation" Type="Bool">false</Property>
-				<Property Name="crio.SDcounterSlaveChannelMask" Type="Str">0</Property>
-				<Property Name="crio.SDCounterSlaveMasterSlot" Type="Str">0</Property>
-				<Property Name="crio.SDInputFilter" Type="Str">128</Property>
-				<Property Name="crio.SupportsDynamicRes" Type="Bool">false</Property>
-				<Property Name="crio.Type" Type="Str">NI 9265</Property>
-				<Property Name="cRIOModule.DigitalIOMode" Type="Str">0</Property>
-				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
-				<Property Name="cRIOModule.HotSwapMode" Type="Str">0</Property>
-				<Item Name="M3AO0" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
-					<Property Name="Industrial:EnableTimestamp" Type="Str">False</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO0</Property>
-					<Property Name="Industrial:PublishedReadOnly" Type="Str">False</Property>
-					<Property Name="Industrial:RSI" Type="Str">False</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="M3AO1" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
-					<Property Name="Industrial:EnableTimestamp" Type="Str">False</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO1</Property>
-					<Property Name="Industrial:PublishedReadOnly" Type="Str">False</Property>
-					<Property Name="Industrial:RSI" Type="Str">False</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="R6 Air MFC" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
-					<Property Name="Industrial:EnableTimestamp" Type="Str">False</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO2</Property>
-					<Property Name="Industrial:PublishedReadOnly" Type="Str">False</Property>
-					<Property Name="Industrial:RSI" Type="Str">False</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
-				</Item>
-				<Item Name="R6 N2 MFC" Type="Variable">
-					<Property Name="featurePacks" Type="Str">Industrial</Property>
-					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
-					<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
-					<Property Name="Industrial:EnableTimestamp" Type="Str">False</Property>
-					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
-					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
-					<Property Name="Industrial:Mode" Type="Str">1</Property>
-					<Property Name="Industrial:PhysicalName" Type="Str">AO3</Property>
-					<Property Name="Industrial:PublishedReadOnly" Type="Str">False</Property>
-					<Property Name="Industrial:RSI" Type="Str">False</Property>
-					<Property Name="Network:UseBinding" Type="Str">False</Property>
-					<Property Name="Network:UseBuffering" Type="Str">False</Property>
-					<Property Name="numTypedefs" Type="UInt">0</Property>
-					<Property Name="type" Type="Str">Industrial</Property>
-					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
 				</Item>
 			</Item>
 			<Item Name="Mod6" Type="RIO C Series Module">
@@ -1263,6 +1189,87 @@ DirectoryIndex index.htm
 					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
 					<Property Name="Industrial:Mode" Type="Str">1</Property>
 					<Property Name="Industrial:PhysicalName" Type="Str">AI31</Property>
+					<Property Name="Industrial:PublishedReadOnly" Type="Str">False</Property>
+					<Property Name="Industrial:RSI" Type="Str">False</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">False</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+			</Item>
+			<Item Name="Mod3" Type="RIO C Series Module">
+				<Property Name="crio.Calibration" Type="Str">1</Property>
+				<Property Name="crio.Location" Type="Str">Slot 3</Property>
+				<Property Name="crio.RequiresValidation" Type="Bool">false</Property>
+				<Property Name="crio.SDcounterSlaveChannelMask" Type="Str">0</Property>
+				<Property Name="crio.SDCounterSlaveMasterSlot" Type="Str">0</Property>
+				<Property Name="crio.SDInputFilter" Type="Str">128</Property>
+				<Property Name="crio.SupportsDynamicRes" Type="Bool">false</Property>
+				<Property Name="crio.Type" Type="Str">NI 9265</Property>
+				<Property Name="cRIOModule.DigitalIOMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
+				<Property Name="cRIOModule.HotSwapMode" Type="Str">0</Property>
+				<Item Name="M3AO0" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
+					<Property Name="Industrial:EnableTimestamp" Type="Str">False</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO0</Property>
+					<Property Name="Industrial:PublishedReadOnly" Type="Str">False</Property>
+					<Property Name="Industrial:RSI" Type="Str">False</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">False</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="M3AO1" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
+					<Property Name="Industrial:EnableTimestamp" Type="Str">False</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO1</Property>
+					<Property Name="Industrial:PublishedReadOnly" Type="Str">False</Property>
+					<Property Name="Industrial:RSI" Type="Str">False</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">False</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="R6 Air MFC" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
+					<Property Name="Industrial:EnableTimestamp" Type="Str">False</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO2</Property>
+					<Property Name="Industrial:PublishedReadOnly" Type="Str">False</Property>
+					<Property Name="Industrial:RSI" Type="Str">False</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">False</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="R6 N2 MFC" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
+					<Property Name="Industrial:EnableTimestamp" Type="Str">False</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO3</Property>
 					<Property Name="Industrial:PublishedReadOnly" Type="Str">False</Property>
 					<Property Name="Industrial:RSI" Type="Str">False</Property>
 					<Property Name="Network:UseBinding" Type="Str">False</Property>
